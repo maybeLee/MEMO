@@ -1,0 +1,10 @@
+LineCoverage,BranchCoverage,LineHit,TotalLines,BranchHit,TotalBranches
+python result:
+0,0,0,0,0,0
+c result:
+0,0,0,0,0,0
+LineCoverage,BranchCoverage,LineHit,TotalLines,BranchHit,TotalBranches
+python result:
+0.275719865444476,0.083258338622434,83440,302626,8789,105563
+c result:
+0.09029704043474619,0.0656192,36655,405938,10253,156250

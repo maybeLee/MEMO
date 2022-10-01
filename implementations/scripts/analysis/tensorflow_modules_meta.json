@@ -1,0 +1,25 @@
+{
+  "API": [
+    "/data/ziniu/anaconda3/envs/tensorflow/lib/python3.7/site-packages/keras",
+    "/data/ziniu/anaconda3/envs/tensorflow/lib/python3.7/site-packages/keras/layers",
+    "/data/ziniu/anaconda3/envs/tensorflow/lib/python3.7/site-packages/keras/initializers",
+    "/data/ziniu/anaconda3/envs/tensorflow/lib/python3.7/site-packages/keras/layers/normalization",
+    "/data/ziniu/anaconda3/envs/tensorflow/lib/python3.7/site-packages/keras/layers/core"
+  ],
+  "Operators": [
+    "/data/ziniu/anaconda3/envs/tensorflow/lib/python3.7/site-packages/tensorflow/python/ops",
+    "/data/ziniu/dl_libraries/exp0/tensorflow/tensorflow/tensorflow/core/ops",
+    "/data/ziniu/dl_libraries/exp0/tensorflow/tensorflow/tensorflow/core/kernels",
+    "/data/ziniu/dl_libraries/exp0/tensorflow/tensorflow/tensorflow/core/kernels/linalg",
+    "/data/ziniu/dl_libraries/exp0/tensorflow/tensorflow/tensorflow/core/util"
+  ],
+  "Model": [
+    "/data/ziniu/anaconda3/envs/tensorflow/lib/python3.7/site-packages/tensorflow/python/framework",
+    "/data/ziniu/dl_libraries/exp0/tensorflow/tensorflow/tensorflow/core/framework",
+    "/data/ziniu/anaconda3/envs/tensorflow/lib/python3.7/site-packages/keras/saving",
+    "/data/ziniu/dl_libraries/exp0/tensorflow/tensorflow/tensorflow/core/grappler/optimizers",
+    "/data/ziniu/anaconda3/envs/tensorflow/lib/python3.7/site-packages/keras/engine",
+    "/data/ziniu/anaconda3/envs/tensorflow/lib/python3.7/site-packages/keras/utils",
+    "/data/ziniu/anaconda3/envs/tensorflow/lib/python3.7/site-packages/tensorflow/python/framework"
+  ]
+}

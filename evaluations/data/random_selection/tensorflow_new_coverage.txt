@@ -1,0 +1,26 @@
+LineCoverage,BranchCoverage,LineHit,TotalLines,BranchHit,TotalBranches
+Current time (seconds): 3.83127760887146
+python result:
+0,0,0,0,0,0
+c result:
+0,0,0,0,0,0
+LineCoverage,BranchCoverage,LineHit,TotalLines,BranchHit,TotalBranches
+python result:
+0.2755976023210167,0.083542529105842,83403,302626,8819,105563
+c result:
+0.08897171489242199,0.0640401971452346,36117,405938,10005,156230
+LineCoverage,BranchCoverage,LineHit,TotalLines,BranchHit,TotalBranches
+python result:
+0.2859635325451217,0.09549747544120572,86540,302626,10081,105563
+c result:
+0.10122728101335672,0.07458906299968021,41092,405938,11662,156350
+LineCoverage,BranchCoverage,LineHit,TotalLines,BranchHit,TotalBranches
+python result:
+0.28686563613172694,0.09660581832649698,86813,302626,10198,105563
+c result:
+0.10179633343022826,0.07507515190278222,41323,405938,11738,156350
+LineCoverage,BranchCoverage,LineHit,TotalLines,BranchHit,TotalBranches
+python result:
+0.28705729183877127,0.09687106277767779,86871,302626,10226,105563
+c result:
+0.10252058196079204,0.0757319927856019,41617,405938,11841,156354

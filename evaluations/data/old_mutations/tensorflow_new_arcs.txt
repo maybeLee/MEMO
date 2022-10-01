@@ -1,0 +1,3501 @@
+Current time (seconds): 24.073889017105103
+arcs result (covered arcs):
+6939
+Current time (seconds): 36.15088367462158
+arcs result (covered arcs):
+7460
+Current time (seconds): 46.69725680351257
+arcs result (covered arcs):
+7476
+Current time (seconds): 58.886786699295044
+arcs result (covered arcs):
+7521
+Current time (seconds): 70.87350940704346
+arcs result (covered arcs):
+7547
+Current time (seconds): 82.75722861289978
+arcs result (covered arcs):
+7547
+Current time (seconds): 93.78673887252808
+arcs result (covered arcs):
+7547
+Current time (seconds): 105.28576397895813
+arcs result (covered arcs):
+7590
+Current time (seconds): 114.86356973648071
+arcs result (covered arcs):
+7590
+Current time (seconds): 127.05349898338318
+arcs result (covered arcs):
+7613
+Current time (seconds): 245.68924641609192
+arcs result (covered arcs):
+7613
+Current time (seconds): 262.6876895427704
+arcs result (covered arcs):
+7613
+Current time (seconds): 280.164936542511
+arcs result (covered arcs):
+7621
+Current time (seconds): 298.7363724708557
+arcs result (covered arcs):
+7621
+Current time (seconds): 315.8292636871338
+arcs result (covered arcs):
+7621
+Current time (seconds): 332.70496702194214
+arcs result (covered arcs):
+7621
+Current time (seconds): 349.6844472885132
+arcs result (covered arcs):
+7621
+Current time (seconds): 372.09050822257996
+arcs result (covered arcs):
+7621
+Current time (seconds): 393.0931005477905
+arcs result (covered arcs):
+7621
+Current time (seconds): 408.71809363365173
+arcs result (covered arcs):
+7623
+Current time (seconds): 425.10624289512634
+arcs result (covered arcs):
+7623
+Current time (seconds): 442.0987193584442
+arcs result (covered arcs):
+7625
+Current time (seconds): 463.82613348960876
+arcs result (covered arcs):
+7625
+Current time (seconds): 479.7368223667145
+arcs result (covered arcs):
+7625
+Current time (seconds): 496.61984610557556
+arcs result (covered arcs):
+7625
+Current time (seconds): 513.7091886997223
+arcs result (covered arcs):
+7625
+Current time (seconds): 540.2993578910828
+arcs result (covered arcs):
+7625
+Current time (seconds): 556.0006387233734
+arcs result (covered arcs):
+7625
+Current time (seconds): 572.3551030158997
+arcs result (covered arcs):
+7625
+Current time (seconds): 592.7295908927917
+arcs result (covered arcs):
+7632
+Current time (seconds): 614.3722658157349
+arcs result (covered arcs):
+7632
+Current time (seconds): 630.4670610427856
+arcs result (covered arcs):
+7632
+Current time (seconds): 647.2662637233734
+arcs result (covered arcs):
+7632
+Current time (seconds): 672.9331147670746
+arcs result (covered arcs):
+7632
+Current time (seconds): 689.2694036960602
+arcs result (covered arcs):
+7632
+Current time (seconds): 706.485365152359
+arcs result (covered arcs):
+7632
+Current time (seconds): 722.3544435501099
+arcs result (covered arcs):
+7632
+Current time (seconds): 737.4841463565826
+arcs result (covered arcs):
+7632
+Current time (seconds): 754.8429160118103
+arcs result (covered arcs):
+7632
+Current time (seconds): 771.5660357475281
+arcs result (covered arcs):
+7632
+Current time (seconds): 788.478184223175
+arcs result (covered arcs):
+7634
+Current time (seconds): 806.2905445098877
+arcs result (covered arcs):
+7634
+Current time (seconds): 822.9279050827026
+arcs result (covered arcs):
+7634
+Current time (seconds): 839.3017947673798
+arcs result (covered arcs):
+7634
+Current time (seconds): 855.0037748813629
+arcs result (covered arcs):
+7634
+Current time (seconds): 876.0149734020233
+arcs result (covered arcs):
+7634
+Current time (seconds): 891.7773904800415
+arcs result (covered arcs):
+7634
+Current time (seconds): 907.6896133422852
+arcs result (covered arcs):
+7634
+Current time (seconds): 924.9493410587311
+arcs result (covered arcs):
+7634
+Current time (seconds): 942.2155723571777
+arcs result (covered arcs):
+7634
+Current time (seconds): 958.6521732807159
+arcs result (covered arcs):
+7634
+Current time (seconds): 974.686192035675
+arcs result (covered arcs):
+7634
+Current time (seconds): 989.809029340744
+arcs result (covered arcs):
+7634
+Current time (seconds): 1004.800539970398
+arcs result (covered arcs):
+7634
+Current time (seconds): 1021.3646931648254
+arcs result (covered arcs):
+7634
+Current time (seconds): 1043.0736618041992
+arcs result (covered arcs):
+7634
+Current time (seconds): 1060.117048740387
+arcs result (covered arcs):
+7634
+Current time (seconds): 1077.8589236736298
+arcs result (covered arcs):
+7634
+Current time (seconds): 1093.571043252945
+arcs result (covered arcs):
+7634
+Current time (seconds): 1109.0247445106506
+arcs result (covered arcs):
+7634
+Current time (seconds): 1124.7157454490662
+arcs result (covered arcs):
+7634
+Current time (seconds): 1141.5855040550232
+arcs result (covered arcs):
+7634
+Current time (seconds): 1157.2958090305328
+arcs result (covered arcs):
+7634
+Current time (seconds): 1182.2941930294037
+arcs result (covered arcs):
+7634
+Current time (seconds): 1197.8926491737366
+arcs result (covered arcs):
+7634
+Current time (seconds): 1214.6953933238983
+arcs result (covered arcs):
+7634
+Current time (seconds): 1235.940276145935
+arcs result (covered arcs):
+7634
+Current time (seconds): 1257.1628806591034
+arcs result (covered arcs):
+7634
+Current time (seconds): 1273.0235393047333
+arcs result (covered arcs):
+7634
+Current time (seconds): 1289.5105142593384
+arcs result (covered arcs):
+7634
+Current time (seconds): 1306.1777710914612
+arcs result (covered arcs):
+7634
+Current time (seconds): 1323.2040741443634
+arcs result (covered arcs):
+7634
+Current time (seconds): 1340.0949091911316
+arcs result (covered arcs):
+7635
+Current time (seconds): 1356.7908821105957
+arcs result (covered arcs):
+7642
+Current time (seconds): 1373.3669509887695
+arcs result (covered arcs):
+7642
+Current time (seconds): 1390.1465847492218
+arcs result (covered arcs):
+7642
+Current time (seconds): 1406.572633266449
+arcs result (covered arcs):
+7642
+Current time (seconds): 1423.2394609451294
+arcs result (covered arcs):
+7642
+Current time (seconds): 1440.187818288803
+arcs result (covered arcs):
+7642
+Current time (seconds): 1457.0887517929077
+arcs result (covered arcs):
+7642
+Current time (seconds): 1473.515335559845
+arcs result (covered arcs):
+7642
+Current time (seconds): 1490.4568762779236
+arcs result (covered arcs):
+7642
+Current time (seconds): 1506.8615033626556
+arcs result (covered arcs):
+7642
+Current time (seconds): 1528.2623934745789
+arcs result (covered arcs):
+7642
+Current time (seconds): 1544.9640023708344
+arcs result (covered arcs):
+7642
+Current time (seconds): 1561.9054191112518
+arcs result (covered arcs):
+7642
+Current time (seconds): 1579.1421513557434
+arcs result (covered arcs):
+7642
+Current time (seconds): 1596.58424949646
+arcs result (covered arcs):
+7648
+Current time (seconds): 1613.4059228897095
+arcs result (covered arcs):
+7653
+Current time (seconds): 1629.2653143405914
+arcs result (covered arcs):
+7653
+Current time (seconds): 1646.582482099533
+arcs result (covered arcs):
+7653
+Current time (seconds): 1667.7818064689636
+arcs result (covered arcs):
+7653
+Current time (seconds): 1684.9396138191223
+arcs result (covered arcs):
+7653
+Current time (seconds): 1708.8687002658844
+arcs result (covered arcs):
+7653
+Current time (seconds): 1732.0653054714203
+arcs result (covered arcs):
+7653
+Current time (seconds): 1748.6190361976624
+arcs result (covered arcs):
+7653
+Current time (seconds): 1765.174998998642
+arcs result (covered arcs):
+7653
+Current time (seconds): 1780.9230706691742
+arcs result (covered arcs):
+7653
+Current time (seconds): 1798.4529750347137
+arcs result (covered arcs):
+7653
+Current time (seconds): 1814.8506531715393
+arcs result (covered arcs):
+7653
+Current time (seconds): 1830.5977272987366
+arcs result (covered arcs):
+7653
+Current time (seconds): 1847.0540943145752
+arcs result (covered arcs):
+7653
+Current time (seconds): 1879.0933992862701
+arcs result (covered arcs):
+7653
+Current time (seconds): 1904.222650051117
+arcs result (covered arcs):
+7653
+Current time (seconds): 1920.7070560455322
+arcs result (covered arcs):
+7653
+Current time (seconds): 1938.0635330677032
+arcs result (covered arcs):
+7653
+Current time (seconds): 1954.8624365329742
+arcs result (covered arcs):
+7653
+Current time (seconds): 1971.5838363170624
+arcs result (covered arcs):
+7656
+Current time (seconds): 1988.5097439289093
+arcs result (covered arcs):
+7656
+Current time (seconds): 2004.9874784946442
+arcs result (covered arcs):
+7656
+Current time (seconds): 2026.2762954235077
+arcs result (covered arcs):
+7656
+Current time (seconds): 2042.127644777298
+arcs result (covered arcs):
+7656
+Current time (seconds): 2057.9355206489563
+arcs result (covered arcs):
+7656
+Current time (seconds): 2079.4743893146515
+arcs result (covered arcs):
+7656
+Current time (seconds): 2095.7579271793365
+arcs result (covered arcs):
+7656
+Current time (seconds): 2111.558919906616
+arcs result (covered arcs):
+7656
+Current time (seconds): 2127.958782672882
+arcs result (covered arcs):
+7656
+Current time (seconds): 2143.5962102413177
+arcs result (covered arcs):
+7656
+Current time (seconds): 2168.264177083969
+arcs result (covered arcs):
+7656
+Current time (seconds): 2184.795097351074
+arcs result (covered arcs):
+7656
+Current time (seconds): 2200.5705530643463
+arcs result (covered arcs):
+7656
+Current time (seconds): 2217.6470897197723
+arcs result (covered arcs):
+7656
+Current time (seconds): 2238.3051133155823
+arcs result (covered arcs):
+7656
+Current time (seconds): 2254.927590370178
+arcs result (covered arcs):
+7656
+Current time (seconds): 2270.8743567466736
+arcs result (covered arcs):
+7656
+Current time (seconds): 2287.443293571472
+arcs result (covered arcs):
+7656
+Current time (seconds): 2303.262373685837
+arcs result (covered arcs):
+7656
+Current time (seconds): 2320.192319393158
+arcs result (covered arcs):
+7656
+Current time (seconds): 2337.2073402404785
+arcs result (covered arcs):
+7656
+Current time (seconds): 2361.704941034317
+arcs result (covered arcs):
+7656
+Current time (seconds): 2378.322820663452
+arcs result (covered arcs):
+7656
+Current time (seconds): 2394.9640305042267
+arcs result (covered arcs):
+7656
+Current time (seconds): 2410.7427208423615
+arcs result (covered arcs):
+7656
+Current time (seconds): 2432.35485291481
+arcs result (covered arcs):
+7656
+Current time (seconds): 2449.203483104706
+arcs result (covered arcs):
+7656
+Current time (seconds): 2470.937045097351
+arcs result (covered arcs):
+7656
+Current time (seconds): 2492.637664079666
+arcs result (covered arcs):
+7659
+Current time (seconds): 2514.606590270996
+arcs result (covered arcs):
+7659
+Current time (seconds): 2531.3552181720734
+arcs result (covered arcs):
+7659
+Current time (seconds): 2548.2117965221405
+arcs result (covered arcs):
+7659
+Current time (seconds): 2565.178948402405
+arcs result (covered arcs):
+7659
+Current time (seconds): 2581.8085713386536
+arcs result (covered arcs):
+7659
+Current time (seconds): 2598.560123682022
+arcs result (covered arcs):
+7659
+Current time (seconds): 2615.3130116462708
+arcs result (covered arcs):
+7659
+Current time (seconds): 2642.339527130127
+arcs result (covered arcs):
+7705
+Current time (seconds): 2662.930129289627
+arcs result (covered arcs):
+7719
+Current time (seconds): 2684.1757011413574
+arcs result (covered arcs):
+7719
+Current time (seconds): 2701.912042617798
+arcs result (covered arcs):
+7719
+Current time (seconds): 2717.8900208473206
+arcs result (covered arcs):
+7719
+Current time (seconds): 2734.548402070999
+arcs result (covered arcs):
+7719
+Current time (seconds): 2751.3114993572235
+arcs result (covered arcs):
+7719
+Current time (seconds): 2767.834828853607
+arcs result (covered arcs):
+7719
+Current time (seconds): 2784.615144968033
+arcs result (covered arcs):
+7719
+Current time (seconds): 2801.563416004181
+arcs result (covered arcs):
+7719
+Current time (seconds): 2818.050238609314
+arcs result (covered arcs):
+7719
+Current time (seconds): 2835.3774597644806
+arcs result (covered arcs):
+7719
+Current time (seconds): 2852.1700525283813
+arcs result (covered arcs):
+7721
+Current time (seconds): 2869.2143144607544
+arcs result (covered arcs):
+7721
+Current time (seconds): 2886.14204621315
+arcs result (covered arcs):
+7721
+Current time (seconds): 2903.098497390747
+arcs result (covered arcs):
+7721
+Current time (seconds): 2920.017019510269
+arcs result (covered arcs):
+7721
+Current time (seconds): 2936.6735858917236
+arcs result (covered arcs):
+7721
+Current time (seconds): 2961.218631029129
+arcs result (covered arcs):
+7721
+Current time (seconds): 2985.886462211609
+arcs result (covered arcs):
+7721
+Current time (seconds): 3002.4302258491516
+arcs result (covered arcs):
+7721
+Current time (seconds): 3019.399679660797
+arcs result (covered arcs):
+7721
+Current time (seconds): 3035.1115560531616
+arcs result (covered arcs):
+7721
+Current time (seconds): 3050.8970580101013
+arcs result (covered arcs):
+7721
+Current time (seconds): 3082.6337234973907
+arcs result (covered arcs):
+7721
+Current time (seconds): 3104.8683366775513
+arcs result (covered arcs):
+7721
+Current time (seconds): 3121.9145317077637
+arcs result (covered arcs):
+7721
+Current time (seconds): 3138.7117993831635
+arcs result (covered arcs):
+7721
+Current time (seconds): 3160.4759600162506
+arcs result (covered arcs):
+7721
+Current time (seconds): 3177.711391210556
+arcs result (covered arcs):
+7721
+Current time (seconds): 3194.362680196762
+arcs result (covered arcs):
+7721
+Current time (seconds): 3211.447854757309
+arcs result (covered arcs):
+7721
+Current time (seconds): 3228.755136489868
+arcs result (covered arcs):
+7721
+Current time (seconds): 3246.3678822517395
+arcs result (covered arcs):
+7724
+Current time (seconds): 3259.218598842621
+arcs result (covered arcs):
+7724
+Current time (seconds): 3273.36696767807
+arcs result (covered arcs):
+7724
+Current time (seconds): 3287.1118907928467
+arcs result (covered arcs):
+7724
+Current time (seconds): 3300.1851105690002
+arcs result (covered arcs):
+7724
+Current time (seconds): 3314.4023315906525
+arcs result (covered arcs):
+7724
+Current time (seconds): 3332.0744347572327
+arcs result (covered arcs):
+7724
+Current time (seconds): 3346.488101005554
+arcs result (covered arcs):
+7724
+Current time (seconds): 3360.478917360306
+arcs result (covered arcs):
+7724
+Current time (seconds): 3373.80801987648
+arcs result (covered arcs):
+7724
+Current time (seconds): 3391.165221452713
+arcs result (covered arcs):
+7724
+Current time (seconds): 3412.6237754821777
+arcs result (covered arcs):
+7724
+Current time (seconds): 3426.8676373958588
+arcs result (covered arcs):
+7724
+Current time (seconds): 3440.824809074402
+arcs result (covered arcs):
+7724
+Current time (seconds): 3455.0652141571045
+arcs result (covered arcs):
+7724
+Current time (seconds): 3468.827633857727
+arcs result (covered arcs):
+7724
+Current time (seconds): 3481.795077085495
+arcs result (covered arcs):
+7724
+Current time (seconds): 3495.405274629593
+arcs result (covered arcs):
+7724
+Current time (seconds): 3512.3647990226746
+arcs result (covered arcs):
+7724
+Current time (seconds): 3529.4536616802216
+arcs result (covered arcs):
+7724
+Current time (seconds): 3543.379815340042
+arcs result (covered arcs):
+7724
+Current time (seconds): 3557.8044459819794
+arcs result (covered arcs):
+7724
+Current time (seconds): 3572.0253200531006
+arcs result (covered arcs):
+7724
+Current time (seconds): 3586.270035266876
+arcs result (covered arcs):
+7724
+Current time (seconds): 3603.5008187294006
+arcs result (covered arcs):
+7724
+Current time (seconds): 3617.992246866226
+arcs result (covered arcs):
+7724
+Current time (seconds): 3632.696114063263
+arcs result (covered arcs):
+7724
+Current time (seconds): 3646.7387697696686
+arcs result (covered arcs):
+7724
+Current time (seconds): 3660.9260976314545
+arcs result (covered arcs):
+7724
+Current time (seconds): 3675.771698474884
+arcs result (covered arcs):
+7724
+Current time (seconds): 3690.5845210552216
+arcs result (covered arcs):
+7724
+Current time (seconds): 3705.860321998596
+arcs result (covered arcs):
+7724
+Current time (seconds): 3719.125051021576
+arcs result (covered arcs):
+7724
+Current time (seconds): 3733.767597436905
+arcs result (covered arcs):
+7724
+Current time (seconds): 3748.033288002014
+arcs result (covered arcs):
+7724
+Current time (seconds): 3761.7510249614716
+arcs result (covered arcs):
+7724
+Current time (seconds): 3775.4353547096252
+arcs result (covered arcs):
+7724
+Current time (seconds): 3789.8136553764343
+arcs result (covered arcs):
+7728
+Current time (seconds): 3803.943552494049
+arcs result (covered arcs):
+7728
+Current time (seconds): 3817.17298078537
+arcs result (covered arcs):
+7728
+Current time (seconds): 3831.773894548416
+arcs result (covered arcs):
+7728
+Current time (seconds): 3845.752779006958
+arcs result (covered arcs):
+7728
+Current time (seconds): 3859.056154489517
+arcs result (covered arcs):
+7728
+Current time (seconds): 3874.1976737976074
+arcs result (covered arcs):
+7728
+Current time (seconds): 3888.588657140732
+arcs result (covered arcs):
+7728
+Current time (seconds): 3903.7310791015625
+arcs result (covered arcs):
+7728
+Current time (seconds): 3928.5785048007965
+arcs result (covered arcs):
+7728
+Current time (seconds): 3943.8032987117767
+arcs result (covered arcs):
+7728
+Current time (seconds): 3958.4109370708466
+arcs result (covered arcs):
+7728
+Current time (seconds): 3971.8377509117126
+arcs result (covered arcs):
+7728
+Current time (seconds): 3986.5510773658752
+arcs result (covered arcs):
+7728
+Current time (seconds): 4007.8659834861755
+arcs result (covered arcs):
+7728
+Current time (seconds): 4022.6497094631195
+arcs result (covered arcs):
+7728
+Current time (seconds): 4036.459333181381
+arcs result (covered arcs):
+7728
+Current time (seconds): 4050.874050617218
+arcs result (covered arcs):
+7728
+Current time (seconds): 4063.0806028842926
+arcs result (covered arcs):
+7728
+Current time (seconds): 4077.1101429462433
+arcs result (covered arcs):
+7728
+Current time (seconds): 4097.982467651367
+arcs result (covered arcs):
+7728
+Current time (seconds): 4115.329964399338
+arcs result (covered arcs):
+7728
+Current time (seconds): 4129.518089532852
+arcs result (covered arcs):
+7728
+Current time (seconds): 4142.73241186142
+arcs result (covered arcs):
+7728
+Current time (seconds): 4158.012583255768
+arcs result (covered arcs):
+7728
+Current time (seconds): 4172.535697221756
+arcs result (covered arcs):
+7728
+Current time (seconds): 4187.335619211197
+arcs result (covered arcs):
+7728
+Current time (seconds): 4202.470851659775
+arcs result (covered arcs):
+7728
+Current time (seconds): 4216.323808193207
+arcs result (covered arcs):
+7728
+Current time (seconds): 4229.156158685684
+arcs result (covered arcs):
+7728
+Current time (seconds): 4250.209881544113
+arcs result (covered arcs):
+7728
+Current time (seconds): 4264.360390901566
+arcs result (covered arcs):
+7728
+Current time (seconds): 4279.114769697189
+arcs result (covered arcs):
+7728
+Current time (seconds): 4293.39643406868
+arcs result (covered arcs):
+7728
+Current time (seconds): 4309.951403141022
+arcs result (covered arcs):
+7728
+Current time (seconds): 4325.874646663666
+arcs result (covered arcs):
+7728
+Current time (seconds): 4345.413190126419
+arcs result (covered arcs):
+7728
+Current time (seconds): 4360.425435304642
+arcs result (covered arcs):
+7728
+Current time (seconds): 4375.461534976959
+arcs result (covered arcs):
+7728
+Current time (seconds): 4389.424070358276
+arcs result (covered arcs):
+7728
+Current time (seconds): 4403.453428983688
+arcs result (covered arcs):
+7749
+Current time (seconds): 4418.187851190567
+arcs result (covered arcs):
+7749
+Current time (seconds): 4431.9906668663025
+arcs result (covered arcs):
+7749
+Current time (seconds): 4446.793300628662
+arcs result (covered arcs):
+7749
+Current time (seconds): 4468.776945352554
+arcs result (covered arcs):
+7749
+Current time (seconds): 4490.070838928223
+arcs result (covered arcs):
+7749
+Current time (seconds): 4504.826690912247
+arcs result (covered arcs):
+7749
+Current time (seconds): 4518.989740371704
+arcs result (covered arcs):
+7749
+Current time (seconds): 4533.024304628372
+arcs result (covered arcs):
+7749
+Current time (seconds): 4547.152107954025
+arcs result (covered arcs):
+7749
+Current time (seconds): 4560.140315771103
+arcs result (covered arcs):
+7749
+Current time (seconds): 4576.625612020493
+arcs result (covered arcs):
+7749
+Current time (seconds): 4591.168851613998
+arcs result (covered arcs):
+7749
+Current time (seconds): 4605.373157501221
+arcs result (covered arcs):
+7749
+Current time (seconds): 4619.262375831604
+arcs result (covered arcs):
+7749
+Current time (seconds): 4633.0132558345795
+arcs result (covered arcs):
+7749
+Current time (seconds): 4647.732995510101
+arcs result (covered arcs):
+7749
+Current time (seconds): 4665.250169992447
+arcs result (covered arcs):
+7749
+Current time (seconds): 4679.177127361298
+arcs result (covered arcs):
+7749
+Current time (seconds): 4693.963792800903
+arcs result (covered arcs):
+7749
+Current time (seconds): 4708.283407449722
+arcs result (covered arcs):
+7749
+Current time (seconds): 4721.427150726318
+arcs result (covered arcs):
+7749
+Current time (seconds): 4739.064588546753
+arcs result (covered arcs):
+7749
+Current time (seconds): 4751.990123748779
+arcs result (covered arcs):
+7749
+Current time (seconds): 4765.21776175499
+arcs result (covered arcs):
+7749
+Current time (seconds): 4778.921293020248
+arcs result (covered arcs):
+7749
+Current time (seconds): 4793.741352558136
+arcs result (covered arcs):
+7749
+Current time (seconds): 4806.975172996521
+arcs result (covered arcs):
+7749
+Current time (seconds): 4824.918996334076
+arcs result (covered arcs):
+7749
+Current time (seconds): 4839.632071971893
+arcs result (covered arcs):
+7749
+Current time (seconds): 4854.287798166275
+arcs result (covered arcs):
+7749
+Current time (seconds): 4868.997593402863
+arcs result (covered arcs):
+7749
+Current time (seconds): 4883.446805715561
+arcs result (covered arcs):
+7749
+Current time (seconds): 4897.664526939392
+arcs result (covered arcs):
+7749
+Current time (seconds): 4912.41500711441
+arcs result (covered arcs):
+7749
+Current time (seconds): 4927.193392753601
+arcs result (covered arcs):
+7749
+Current time (seconds): 4941.5719447135925
+arcs result (covered arcs):
+7749
+Current time (seconds): 4955.625765800476
+arcs result (covered arcs):
+7749
+Current time (seconds): 4969.047374248505
+arcs result (covered arcs):
+7749
+Current time (seconds): 4983.756183862686
+arcs result (covered arcs):
+7749
+Current time (seconds): 4996.737126111984
+arcs result (covered arcs):
+7749
+Current time (seconds): 5011.3243091106415
+arcs result (covered arcs):
+7749
+Current time (seconds): 5025.948443651199
+arcs result (covered arcs):
+7749
+Current time (seconds): 5039.937739372253
+arcs result (covered arcs):
+7749
+Current time (seconds): 5053.308308601379
+arcs result (covered arcs):
+7749
+Current time (seconds): 5067.684557914734
+arcs result (covered arcs):
+7749
+Current time (seconds): 5081.804652690887
+arcs result (covered arcs):
+7749
+Current time (seconds): 5095.9677884578705
+arcs result (covered arcs):
+7750
+Current time (seconds): 5110.4027445316315
+arcs result (covered arcs):
+7750
+Current time (seconds): 5124.318374872208
+arcs result (covered arcs):
+7750
+Current time (seconds): 5142.290468931198
+arcs result (covered arcs):
+7750
+Current time (seconds): 5156.163231611252
+arcs result (covered arcs):
+7750
+Current time (seconds): 5170.605665922165
+arcs result (covered arcs):
+7750
+Current time (seconds): 5184.518763780594
+arcs result (covered arcs):
+7750
+Current time (seconds): 5198.24894118309
+arcs result (covered arcs):
+7750
+Current time (seconds): 5212.718268156052
+arcs result (covered arcs):
+7750
+Current time (seconds): 5474.381262302399
+arcs result (covered arcs):
+7750
+Current time (seconds): 5488.742432832718
+arcs result (covered arcs):
+7750
+Current time (seconds): 5505.8004376888275
+arcs result (covered arcs):
+7750
+Current time (seconds): 5519.710431337357
+arcs result (covered arcs):
+7750
+Current time (seconds): 5534.705570220947
+arcs result (covered arcs):
+7750
+Current time (seconds): 5555.664213657379
+arcs result (covered arcs):
+7750
+Current time (seconds): 5570.220585107803
+arcs result (covered arcs):
+7750
+Current time (seconds): 5588.972273111343
+arcs result (covered arcs):
+7750
+Current time (seconds): 5607.010702848434
+arcs result (covered arcs):
+7750
+Current time (seconds): 5624.483033657074
+arcs result (covered arcs):
+7750
+Current time (seconds): 5639.440138101578
+arcs result (covered arcs):
+7750
+Current time (seconds): 5653.744622707367
+arcs result (covered arcs):
+7750
+Current time (seconds): 5668.224921703339
+arcs result (covered arcs):
+7750
+Current time (seconds): 5697.325715065002
+arcs result (covered arcs):
+7750
+Current time (seconds): 5711.261596918106
+arcs result (covered arcs):
+7750
+Current time (seconds): 5729.371326446533
+arcs result (covered arcs):
+7750
+Current time (seconds): 5747.733303785324
+arcs result (covered arcs):
+7750
+Current time (seconds): 5762.055582046509
+arcs result (covered arcs):
+7750
+Current time (seconds): 5777.060648202896
+arcs result (covered arcs):
+7750
+Current time (seconds): 5795.830769062042
+arcs result (covered arcs):
+7750
+Current time (seconds): 5811.025064706802
+arcs result (covered arcs):
+7750
+Current time (seconds): 5826.131700992584
+arcs result (covered arcs):
+7750
+Current time (seconds): 5840.594210863113
+arcs result (covered arcs):
+7750
+Current time (seconds): 5855.910109996796
+arcs result (covered arcs):
+7750
+Current time (seconds): 5870.360669851303
+arcs result (covered arcs):
+7750
+Current time (seconds): 5884.960158824921
+arcs result (covered arcs):
+7750
+Current time (seconds): 5898.672069311142
+arcs result (covered arcs):
+7750
+Current time (seconds): 5916.766273498535
+arcs result (covered arcs):
+7750
+Current time (seconds): 5931.572590827942
+arcs result (covered arcs):
+7750
+Current time (seconds): 5947.145599126816
+arcs result (covered arcs):
+7750
+Current time (seconds): 5962.599494218826
+arcs result (covered arcs):
+7750
+Current time (seconds): 5975.959122657776
+arcs result (covered arcs):
+7750
+Current time (seconds): 5992.105412244797
+arcs result (covered arcs):
+7750
+Current time (seconds): 6006.467205286026
+arcs result (covered arcs):
+7750
+Current time (seconds): 6020.691488981247
+arcs result (covered arcs):
+7750
+Current time (seconds): 6035.754053592682
+arcs result (covered arcs):
+7750
+Current time (seconds): 6050.857330799103
+arcs result (covered arcs):
+7750
+Current time (seconds): 6068.548084974289
+arcs result (covered arcs):
+7750
+Current time (seconds): 6083.876663923264
+arcs result (covered arcs):
+7750
+Current time (seconds): 6098.463672637939
+arcs result (covered arcs):
+7750
+Current time (seconds): 6111.892336606979
+arcs result (covered arcs):
+7750
+Current time (seconds): 6130.381108283997
+arcs result (covered arcs):
+7750
+Current time (seconds): 6145.866888046265
+arcs result (covered arcs):
+7750
+Current time (seconds): 6160.575702905655
+arcs result (covered arcs):
+7750
+Current time (seconds): 6174.993781089783
+arcs result (covered arcs):
+7750
+Current time (seconds): 6190.026146411896
+arcs result (covered arcs):
+7750
+Current time (seconds): 6205.424225091934
+arcs result (covered arcs):
+7750
+Current time (seconds): 6224.805484294891
+arcs result (covered arcs):
+7750
+Current time (seconds): 6240.479446172714
+arcs result (covered arcs):
+7750
+Current time (seconds): 6258.392530679703
+arcs result (covered arcs):
+7750
+Current time (seconds): 6275.728109359741
+arcs result (covered arcs):
+7750
+Current time (seconds): 6297.69179558754
+arcs result (covered arcs):
+7750
+Current time (seconds): 6310.759181499481
+arcs result (covered arcs):
+7750
+Current time (seconds): 6325.852291107178
+arcs result (covered arcs):
+7750
+Current time (seconds): 6339.015682458878
+arcs result (covered arcs):
+7750
+Current time (seconds): 6353.0497987270355
+arcs result (covered arcs):
+7750
+Current time (seconds): 6366.260229587555
+arcs result (covered arcs):
+7750
+Current time (seconds): 6381.315207242966
+arcs result (covered arcs):
+7750
+Current time (seconds): 6402.706388950348
+arcs result (covered arcs):
+7750
+Current time (seconds): 6420.526513814926
+arcs result (covered arcs):
+7750
+Current time (seconds): 6442.74760222435
+arcs result (covered arcs):
+7750
+Current time (seconds): 6457.400678873062
+arcs result (covered arcs):
+7750
+Current time (seconds): 6471.9572660923
+arcs result (covered arcs):
+7750
+Current time (seconds): 6490.825623750687
+arcs result (covered arcs):
+7750
+Current time (seconds): 6505.453947544098
+arcs result (covered arcs):
+7750
+Current time (seconds): 6531.1493973731995
+arcs result (covered arcs):
+7750
+Current time (seconds): 6545.798649549484
+arcs result (covered arcs):
+7750
+Current time (seconds): 6560.303806304932
+arcs result (covered arcs):
+7750
+Current time (seconds): 6579.6768527030945
+arcs result (covered arcs):
+7750
+Current time (seconds): 6595.175076246262
+arcs result (covered arcs):
+7750
+Current time (seconds): 6616.646651506424
+arcs result (covered arcs):
+7750
+Current time (seconds): 6631.0256888866425
+arcs result (covered arcs):
+7750
+Current time (seconds): 6645.694220066071
+arcs result (covered arcs):
+7750
+Current time (seconds): 6660.8717720508575
+arcs result (covered arcs):
+7750
+Current time (seconds): 6675.385944843292
+arcs result (covered arcs):
+7750
+Current time (seconds): 6693.735985040665
+arcs result (covered arcs):
+7750
+Current time (seconds): 6715.199343442917
+arcs result (covered arcs):
+7750
+Current time (seconds): 6729.396688699722
+arcs result (covered arcs):
+7750
+Current time (seconds): 6744.599596738815
+arcs result (covered arcs):
+7750
+Current time (seconds): 6759.201417922974
+arcs result (covered arcs):
+7750
+Current time (seconds): 6774.246699094772
+arcs result (covered arcs):
+7750
+Current time (seconds): 6788.532169103622
+arcs result (covered arcs):
+7750
+Current time (seconds): 6803.115788936615
+arcs result (covered arcs):
+7750
+Current time (seconds): 6824.715655565262
+arcs result (covered arcs):
+7750
+Current time (seconds): 6842.97097492218
+arcs result (covered arcs):
+7750
+Current time (seconds): 6857.63624382019
+arcs result (covered arcs):
+7750
+Current time (seconds): 6870.818221092224
+arcs result (covered arcs):
+7750
+Current time (seconds): 6885.135786533356
+arcs result (covered arcs):
+7750
+Current time (seconds): 6899.42103266716
+arcs result (covered arcs):
+7750
+Current time (seconds): 6914.196825742722
+arcs result (covered arcs):
+7750
+Current time (seconds): 6933.207181930542
+arcs result (covered arcs):
+7750
+Current time (seconds): 6947.257576704025
+arcs result (covered arcs):
+7750
+Current time (seconds): 6968.778762817383
+arcs result (covered arcs):
+7750
+Current time (seconds): 6982.353846073151
+arcs result (covered arcs):
+7750
+Current time (seconds): 6995.903431415558
+arcs result (covered arcs):
+7750
+Current time (seconds): 7011.186030626297
+arcs result (covered arcs):
+7750
+Current time (seconds): 7024.695661783218
+arcs result (covered arcs):
+7750
+Current time (seconds): 7039.2544548511505
+arcs result (covered arcs):
+7750
+Current time (seconds): 7053.470167160034
+arcs result (covered arcs):
+7750
+Current time (seconds): 7067.337840557098
+arcs result (covered arcs):
+7750
+Current time (seconds): 7092.932270288467
+arcs result (covered arcs):
+7750
+Current time (seconds): 7107.513388872147
+arcs result (covered arcs):
+7750
+Current time (seconds): 7122.2407166957855
+arcs result (covered arcs):
+7750
+Current time (seconds): 7136.97310757637
+arcs result (covered arcs):
+7750
+Current time (seconds): 7152.286151647568
+arcs result (covered arcs):
+7750
+Current time (seconds): 7166.929865837097
+arcs result (covered arcs):
+7750
+Current time (seconds): 7181.705210447311
+arcs result (covered arcs):
+7750
+Current time (seconds): 7196.699255466461
+arcs result (covered arcs):
+7750
+Current time (seconds): 7210.38800406456
+arcs result (covered arcs):
+7750
+Current time (seconds): 7225.798399925232
+arcs result (covered arcs):
+7750
+Current time (seconds): 7240.78751039505
+arcs result (covered arcs):
+7750
+Current time (seconds): 7255.428422451019
+arcs result (covered arcs):
+7750
+Current time (seconds): 7270.550144195557
+arcs result (covered arcs):
+7750
+Current time (seconds): 7284.627001285553
+arcs result (covered arcs):
+7750
+Current time (seconds): 7303.826450109482
+arcs result (covered arcs):
+7750
+Current time (seconds): 7322.792863368988
+arcs result (covered arcs):
+7750
+Current time (seconds): 7337.277609825134
+arcs result (covered arcs):
+7750
+Current time (seconds): 7357.690737724304
+arcs result (covered arcs):
+7750
+Current time (seconds): 7372.756764411926
+arcs result (covered arcs):
+7750
+Current time (seconds): 7386.2575850486755
+arcs result (covered arcs):
+7750
+Current time (seconds): 7401.08164191246
+arcs result (covered arcs):
+7750
+Current time (seconds): 7415.204206466675
+arcs result (covered arcs):
+7750
+Current time (seconds): 7430.596623420715
+arcs result (covered arcs):
+7750
+Current time (seconds): 7445.541179895401
+arcs result (covered arcs):
+7750
+Current time (seconds): 7467.405230522156
+arcs result (covered arcs):
+7750
+Current time (seconds): 7482.888453006744
+arcs result (covered arcs):
+7750
+Current time (seconds): 7500.333188056946
+arcs result (covered arcs):
+7750
+Current time (seconds): 7518.423220872879
+arcs result (covered arcs):
+7750
+Current time (seconds): 7533.985111236572
+arcs result (covered arcs):
+7750
+Current time (seconds): 7548.719764471054
+arcs result (covered arcs):
+7750
+Current time (seconds): 7576.181393623352
+arcs result (covered arcs):
+7750
+Current time (seconds): 7591.546821117401
+arcs result (covered arcs):
+7750
+Current time (seconds): 7614.771470308304
+arcs result (covered arcs):
+7750
+Current time (seconds): 7629.283359527588
+arcs result (covered arcs):
+7750
+Current time (seconds): 7643.519558668137
+arcs result (covered arcs):
+7750
+Current time (seconds): 7656.984956026077
+arcs result (covered arcs):
+7750
+Current time (seconds): 7672.081859111786
+arcs result (covered arcs):
+7750
+Current time (seconds): 7686.36517906189
+arcs result (covered arcs):
+7750
+Current time (seconds): 7700.233038187027
+arcs result (covered arcs):
+7750
+Current time (seconds): 7714.580279588699
+arcs result (covered arcs):
+7750
+Current time (seconds): 7728.8597774505615
+arcs result (covered arcs):
+7750
+Current time (seconds): 7754.780253648758
+arcs result (covered arcs):
+7750
+Current time (seconds): 7769.955003738403
+arcs result (covered arcs):
+7750
+Current time (seconds): 7784.70213842392
+arcs result (covered arcs):
+7750
+Current time (seconds): 7799.628728151321
+arcs result (covered arcs):
+7752
+Current time (seconds): 7818.175621509552
+arcs result (covered arcs):
+7752
+Current time (seconds): 7832.720994234085
+arcs result (covered arcs):
+7752
+Current time (seconds): 7846.940590143204
+arcs result (covered arcs):
+7752
+Current time (seconds): 7861.6540949344635
+arcs result (covered arcs):
+7752
+Current time (seconds): 7876.232137203217
+arcs result (covered arcs):
+7752
+Current time (seconds): 7898.548724889755
+arcs result (covered arcs):
+7752
+Current time (seconds): 7926.362281322479
+arcs result (covered arcs):
+7752
+Current time (seconds): 7941.190558671951
+arcs result (covered arcs):
+7752
+Current time (seconds): 7955.770849704742
+arcs result (covered arcs):
+7752
+Current time (seconds): 7970.37731218338
+arcs result (covered arcs):
+7753
+Current time (seconds): 7985.136067152023
+arcs result (covered arcs):
+7753
+Current time (seconds): 7999.008453369141
+arcs result (covered arcs):
+7753
+Current time (seconds): 8014.672294616699
+arcs result (covered arcs):
+7753
+Current time (seconds): 8029.03422999382
+arcs result (covered arcs):
+7753
+Current time (seconds): 8043.679728269577
+arcs result (covered arcs):
+7753
+Current time (seconds): 8058.604919195175
+arcs result (covered arcs):
+7753
+Current time (seconds): 8073.709417581558
+arcs result (covered arcs):
+7753
+Current time (seconds): 8088.8324954509735
+arcs result (covered arcs):
+7753
+Current time (seconds): 8125.120728254318
+arcs result (covered arcs):
+7753
+Current time (seconds): 8140.736404418945
+arcs result (covered arcs):
+7753
+Current time (seconds): 8160.359423875809
+arcs result (covered arcs):
+7753
+Current time (seconds): 8184.306056499481
+arcs result (covered arcs):
+7753
+Current time (seconds): 8198.007945775986
+arcs result (covered arcs):
+7753
+Current time (seconds): 8213.11074256897
+arcs result (covered arcs):
+7753
+Current time (seconds): 8227.280115127563
+arcs result (covered arcs):
+7753
+Current time (seconds): 8242.120720863342
+arcs result (covered arcs):
+7753
+Current time (seconds): 8258.109837770462
+arcs result (covered arcs):
+7753
+Current time (seconds): 8273.74341392517
+arcs result (covered arcs):
+7753
+Current time (seconds): 8291.451117277145
+arcs result (covered arcs):
+7753
+Current time (seconds): 8310.106981039047
+arcs result (covered arcs):
+7753
+Current time (seconds): 8323.557595968246
+arcs result (covered arcs):
+7753
+Current time (seconds): 8345.439859628677
+arcs result (covered arcs):
+7753
+Current time (seconds): 8361.22222852707
+arcs result (covered arcs):
+7753
+Current time (seconds): 8375.634698152542
+arcs result (covered arcs):
+7753
+Current time (seconds): 8390.546370267868
+arcs result (covered arcs):
+7753
+Current time (seconds): 8404.879947662354
+arcs result (covered arcs):
+7753
+Current time (seconds): 8420.083515167236
+arcs result (covered arcs):
+7753
+Current time (seconds): 8435.469761371613
+arcs result (covered arcs):
+7753
+Current time (seconds): 8450.044478416443
+arcs result (covered arcs):
+7753
+Current time (seconds): 8464.957564353943
+arcs result (covered arcs):
+7753
+Current time (seconds): 8484.358323097229
+arcs result (covered arcs):
+7753
+Current time (seconds): 8499.079812288284
+arcs result (covered arcs):
+7753
+Current time (seconds): 8514.06205534935
+arcs result (covered arcs):
+7753
+Current time (seconds): 8533.14428448677
+arcs result (covered arcs):
+7753
+Current time (seconds): 8548.064162492752
+arcs result (covered arcs):
+7753
+Current time (seconds): 8562.063640117645
+arcs result (covered arcs):
+7753
+Current time (seconds): 8576.81021952629
+arcs result (covered arcs):
+7753
+Current time (seconds): 8591.418165922165
+arcs result (covered arcs):
+7753
+Current time (seconds): 8606.697732925415
+arcs result (covered arcs):
+7753
+Current time (seconds): 8626.57657790184
+arcs result (covered arcs):
+7753
+Current time (seconds): 8641.159699440002
+arcs result (covered arcs):
+7753
+Current time (seconds): 8663.109790802002
+arcs result (covered arcs):
+7753
+Current time (seconds): 8681.718832492828
+arcs result (covered arcs):
+7753
+Current time (seconds): 8695.546305656433
+arcs result (covered arcs):
+7753
+Current time (seconds): 8715.780606269836
+arcs result (covered arcs):
+7753
+Current time (seconds): 8730.411689519882
+arcs result (covered arcs):
+7753
+Current time (seconds): 8745.341812849045
+arcs result (covered arcs):
+7753
+Current time (seconds): 8760.950516939163
+arcs result (covered arcs):
+7753
+Current time (seconds): 8778.035096883774
+arcs result (covered arcs):
+7753
+Current time (seconds): 8792.311685562134
+arcs result (covered arcs):
+7753
+Current time (seconds): 8807.085828065872
+arcs result (covered arcs):
+7753
+Current time (seconds): 8821.147221565247
+arcs result (covered arcs):
+7753
+Current time (seconds): 8836.62981891632
+arcs result (covered arcs):
+7753
+Current time (seconds): 8851.374898910522
+arcs result (covered arcs):
+7753
+Current time (seconds): 8866.477860689163
+arcs result (covered arcs):
+7753
+Current time (seconds): 8881.486274719238
+arcs result (covered arcs):
+7753
+Current time (seconds): 8896.91995382309
+arcs result (covered arcs):
+7753
+Current time (seconds): 8912.717955827713
+arcs result (covered arcs):
+7753
+Current time (seconds): 8926.684799432755
+arcs result (covered arcs):
+7753
+Current time (seconds): 8940.816434144974
+arcs result (covered arcs):
+7753
+Current time (seconds): 8955.723130941391
+arcs result (covered arcs):
+7753
+Current time (seconds): 8970.16267991066
+arcs result (covered arcs):
+7753
+Current time (seconds): 8985.54378247261
+arcs result (covered arcs):
+7753
+Current time (seconds): 9001.454762458801
+arcs result (covered arcs):
+7753
+Current time (seconds): 9016.200942754745
+arcs result (covered arcs):
+7753
+Current time (seconds): 9031.564642190933
+arcs result (covered arcs):
+7753
+Current time (seconds): 9047.05111837387
+arcs result (covered arcs):
+7753
+Current time (seconds): 9061.677933692932
+arcs result (covered arcs):
+7753
+Current time (seconds): 9077.094181776047
+arcs result (covered arcs):
+7753
+Current time (seconds): 9090.765993118286
+arcs result (covered arcs):
+7753
+Current time (seconds): 9105.945712566376
+arcs result (covered arcs):
+7753
+Current time (seconds): 9120.595279216766
+arcs result (covered arcs):
+7753
+Current time (seconds): 9143.526453256607
+arcs result (covered arcs):
+7753
+Current time (seconds): 9157.370359659195
+arcs result (covered arcs):
+7753
+Current time (seconds): 9172.988228082657
+arcs result (covered arcs):
+7753
+Current time (seconds): 9187.917583942413
+arcs result (covered arcs):
+7753
+Current time (seconds): 9202.864110469818
+arcs result (covered arcs):
+7753
+Current time (seconds): 9218.8736474514
+arcs result (covered arcs):
+7753
+Current time (seconds): 9234.034917593002
+arcs result (covered arcs):
+7753
+Current time (seconds): 9256.274034023285
+arcs result (covered arcs):
+7753
+Current time (seconds): 9270.85638141632
+arcs result (covered arcs):
+7753
+Current time (seconds): 9285.412692785263
+arcs result (covered arcs):
+7753
+Current time (seconds): 9300.654436826706
+arcs result (covered arcs):
+7753
+Current time (seconds): 9319.745436191559
+arcs result (covered arcs):
+7753
+Current time (seconds): 9334.07077908516
+arcs result (covered arcs):
+7753
+Current time (seconds): 9349.070890903473
+arcs result (covered arcs):
+7753
+Current time (seconds): 9363.19783449173
+arcs result (covered arcs):
+7753
+Current time (seconds): 9390.789939641953
+arcs result (covered arcs):
+7753
+Current time (seconds): 9405.515157938004
+arcs result (covered arcs):
+7753
+Current time (seconds): 9421.858759880066
+arcs result (covered arcs):
+7753
+Current time (seconds): 9450.593886613846
+arcs result (covered arcs):
+7753
+Current time (seconds): 9464.45343875885
+arcs result (covered arcs):
+7753
+Current time (seconds): 9479.36945939064
+arcs result (covered arcs):
+7753
+Current time (seconds): 9494.027146100998
+arcs result (covered arcs):
+7753
+Current time (seconds): 9507.684616565704
+arcs result (covered arcs):
+7753
+Current time (seconds): 9522.25674033165
+arcs result (covered arcs):
+7753
+Current time (seconds): 9537.258883476257
+arcs result (covered arcs):
+7753
+Current time (seconds): 9552.601316690445
+arcs result (covered arcs):
+7753
+Current time (seconds): 9568.64859843254
+arcs result (covered arcs):
+7753
+Current time (seconds): 9588.526619434357
+arcs result (covered arcs):
+7753
+Current time (seconds): 9613.827637672424
+arcs result (covered arcs):
+7753
+Current time (seconds): 9628.734217882156
+arcs result (covered arcs):
+7753
+Current time (seconds): 9644.028950214386
+arcs result (covered arcs):
+7753
+Current time (seconds): 9667.754381895065
+arcs result (covered arcs):
+7753
+Current time (seconds): 9682.744677782059
+arcs result (covered arcs):
+7753
+Current time (seconds): 9697.77249789238
+arcs result (covered arcs):
+7753
+Current time (seconds): 9712.51540350914
+arcs result (covered arcs):
+7753
+Current time (seconds): 9725.676659822464
+arcs result (covered arcs):
+7753
+Current time (seconds): 9753.875013589859
+arcs result (covered arcs):
+7753
+Current time (seconds): 9768.398560762405
+arcs result (covered arcs):
+7753
+Current time (seconds): 9782.4528799057
+arcs result (covered arcs):
+7753
+Current time (seconds): 9805.279939174652
+arcs result (covered arcs):
+7753
+Current time (seconds): 9820.823476552963
+arcs result (covered arcs):
+7753
+Current time (seconds): 9850.361104726791
+arcs result (covered arcs):
+7753
+Current time (seconds): 9864.479813814163
+arcs result (covered arcs):
+7753
+Current time (seconds): 9878.873136520386
+arcs result (covered arcs):
+7753
+Current time (seconds): 9893.018723964691
+arcs result (covered arcs):
+7753
+Current time (seconds): 9907.41324019432
+arcs result (covered arcs):
+7753
+Current time (seconds): 9922.970499277115
+arcs result (covered arcs):
+7753
+Current time (seconds): 9937.071084022522
+arcs result (covered arcs):
+7753
+Current time (seconds): 9951.544568777084
+arcs result (covered arcs):
+7753
+Current time (seconds): 9966.984423875809
+arcs result (covered arcs):
+7753
+Current time (seconds): 9981.50475358963
+arcs result (covered arcs):
+7753
+Current time (seconds): 9995.61989068985
+arcs result (covered arcs):
+7753
+Current time (seconds): 10010.441201210022
+arcs result (covered arcs):
+7753
+Current time (seconds): 10025.887084007263
+arcs result (covered arcs):
+7753
+Current time (seconds): 10041.07056760788
+arcs result (covered arcs):
+7753
+Current time (seconds): 10057.227324724197
+arcs result (covered arcs):
+7753
+Current time (seconds): 10072.604690551758
+arcs result (covered arcs):
+7753
+Current time (seconds): 10087.597491502762
+arcs result (covered arcs):
+7753
+Current time (seconds): 10102.497765302658
+arcs result (covered arcs):
+7753
+Current time (seconds): 10121.400426149368
+arcs result (covered arcs):
+7753
+Current time (seconds): 10136.659108161926
+arcs result (covered arcs):
+7753
+Current time (seconds): 10152.40510225296
+arcs result (covered arcs):
+7753
+Current time (seconds): 10166.206478595734
+arcs result (covered arcs):
+7753
+Current time (seconds): 10181.025957584381
+arcs result (covered arcs):
+7753
+Current time (seconds): 10208.942915916443
+arcs result (covered arcs):
+7753
+Current time (seconds): 10227.704205036163
+arcs result (covered arcs):
+7753
+Current time (seconds): 10242.296948194504
+arcs result (covered arcs):
+7753
+Current time (seconds): 10258.287143945694
+arcs result (covered arcs):
+7753
+Current time (seconds): 10273.207308769226
+arcs result (covered arcs):
+7753
+Current time (seconds): 10288.435988903046
+arcs result (covered arcs):
+7753
+Current time (seconds): 10303.345059156418
+arcs result (covered arcs):
+7753
+Current time (seconds): 10317.782486438751
+arcs result (covered arcs):
+7753
+Current time (seconds): 10332.970699071884
+arcs result (covered arcs):
+7753
+Current time (seconds): 10347.94223856926
+arcs result (covered arcs):
+7753
+Current time (seconds): 10362.81287240982
+arcs result (covered arcs):
+7753
+Current time (seconds): 10382.3673453331
+arcs result (covered arcs):
+7753
+Current time (seconds): 10401.059119224548
+arcs result (covered arcs):
+7753
+Current time (seconds): 10416.497891426086
+arcs result (covered arcs):
+7753
+Current time (seconds): 10431.580565929413
+arcs result (covered arcs):
+7753
+Current time (seconds): 10446.692681789398
+arcs result (covered arcs):
+7753
+Current time (seconds): 10461.22978925705
+arcs result (covered arcs):
+7753
+Current time (seconds): 10475.19538474083
+arcs result (covered arcs):
+7753
+Current time (seconds): 10490.221559286118
+arcs result (covered arcs):
+7753
+Current time (seconds): 10505.651596546173
+arcs result (covered arcs):
+7753
+Current time (seconds): 10520.783952713013
+arcs result (covered arcs):
+7753
+Current time (seconds): 10539.255839586258
+arcs result (covered arcs):
+7753
+Current time (seconds): 10554.248211622238
+arcs result (covered arcs):
+7753
+Current time (seconds): 10569.454467773438
+arcs result (covered arcs):
+7753
+Current time (seconds): 10584.481614589691
+arcs result (covered arcs):
+7753
+Current time (seconds): 10603.750810146332
+arcs result (covered arcs):
+7753
+Current time (seconds): 10619.59606218338
+arcs result (covered arcs):
+7753
+Current time (seconds): 10633.992118120193
+arcs result (covered arcs):
+7753
+Current time (seconds): 10648.532378196716
+arcs result (covered arcs):
+7753
+Current time (seconds): 10663.382170677185
+arcs result (covered arcs):
+7753
+Current time (seconds): 10686.137802124023
+arcs result (covered arcs):
+7753
+Current time (seconds): 10701.492861747742
+arcs result (covered arcs):
+7753
+Current time (seconds): 10717.462652921677
+arcs result (covered arcs):
+7753
+Current time (seconds): 10736.213340997696
+arcs result (covered arcs):
+7753
+Current time (seconds): 10755.285784721375
+arcs result (covered arcs):
+7753
+Current time (seconds): 10769.810666799545
+arcs result (covered arcs):
+7753
+Current time (seconds): 10789.650294065475
+arcs result (covered arcs):
+7753
+Current time (seconds): 10804.871965885162
+arcs result (covered arcs):
+7753
+Current time (seconds): 10935.596837759018
+arcs result (covered arcs):
+7753
+Current time (seconds): 10950.570745706558
+arcs result (covered arcs):
+7753
+Current time (seconds): 10963.602945566177
+arcs result (covered arcs):
+7753
+Current time (seconds): 10983.45409655571
+arcs result (covered arcs):
+7753
+Current time (seconds): 10998.773393392563
+arcs result (covered arcs):
+7753
+Current time (seconds): 11013.818259716034
+arcs result (covered arcs):
+7753
+Current time (seconds): 11029.422846317291
+arcs result (covered arcs):
+7753
+Current time (seconds): 11046.404427051544
+arcs result (covered arcs):
+7753
+Current time (seconds): 11061.22267818451
+arcs result (covered arcs):
+7753
+Current time (seconds): 11076.813150644302
+arcs result (covered arcs):
+7753
+Current time (seconds): 11092.318045854568
+arcs result (covered arcs):
+7753
+Current time (seconds): 11108.987399816513
+arcs result (covered arcs):
+7753
+Current time (seconds): 11123.328963518143
+arcs result (covered arcs):
+7753
+Current time (seconds): 11138.666360139847
+arcs result (covered arcs):
+7753
+Current time (seconds): 11154.231549024582
+arcs result (covered arcs):
+7753
+Current time (seconds): 11169.085830688477
+arcs result (covered arcs):
+7753
+Current time (seconds): 11184.081738233566
+arcs result (covered arcs):
+7753
+Current time (seconds): 11197.680114030838
+arcs result (covered arcs):
+7753
+Current time (seconds): 11213.469533443451
+arcs result (covered arcs):
+7753
+Current time (seconds): 11227.645251750946
+arcs result (covered arcs):
+7753
+Current time (seconds): 11251.687497138977
+arcs result (covered arcs):
+7753
+Current time (seconds): 11267.583551645279
+arcs result (covered arcs):
+7753
+Current time (seconds): 11282.592313051224
+arcs result (covered arcs):
+7753
+Current time (seconds): 11298.31243801117
+arcs result (covered arcs):
+7753
+Current time (seconds): 11313.267501831055
+arcs result (covered arcs):
+7753
+Current time (seconds): 11328.781821012497
+arcs result (covered arcs):
+7753
+Current time (seconds): 11343.782756090164
+arcs result (covered arcs):
+7753
+Current time (seconds): 11358.963603258133
+arcs result (covered arcs):
+7753
+Current time (seconds): 11382.233776569366
+arcs result (covered arcs):
+7753
+Current time (seconds): 11401.363713502884
+arcs result (covered arcs):
+7753
+Current time (seconds): 11416.90898156166
+arcs result (covered arcs):
+7753
+Current time (seconds): 11432.411039829254
+arcs result (covered arcs):
+7753
+Current time (seconds): 11447.547887563705
+arcs result (covered arcs):
+7753
+Current time (seconds): 11462.638989686966
+arcs result (covered arcs):
+7753
+Current time (seconds): 11477.870851039886
+arcs result (covered arcs):
+7753
+Current time (seconds): 11501.077989816666
+arcs result (covered arcs):
+7753
+Current time (seconds): 11516.261797428131
+arcs result (covered arcs):
+7753
+Current time (seconds): 11535.307425260544
+arcs result (covered arcs):
+7753
+Current time (seconds): 11550.068544387817
+arcs result (covered arcs):
+7753
+Current time (seconds): 11565.579018354416
+arcs result (covered arcs):
+7753
+Current time (seconds): 11580.693858385086
+arcs result (covered arcs):
+7753
+Current time (seconds): 11595.713449954987
+arcs result (covered arcs):
+7753
+Current time (seconds): 11610.766517162323
+arcs result (covered arcs):
+7753
+Current time (seconds): 11625.881600856781
+arcs result (covered arcs):
+7753
+Current time (seconds): 11640.971591472626
+arcs result (covered arcs):
+7753
+Current time (seconds): 11656.1542096138
+arcs result (covered arcs):
+7753
+Current time (seconds): 11671.573830604553
+arcs result (covered arcs):
+7753
+Current time (seconds): 11685.848274469376
+arcs result (covered arcs):
+7753
+Current time (seconds): 11701.072820425034
+arcs result (covered arcs):
+7753
+Current time (seconds): 11716.943387746811
+arcs result (covered arcs):
+7753
+Current time (seconds): 11732.352262973785
+arcs result (covered arcs):
+7753
+Current time (seconds): 11748.30824971199
+arcs result (covered arcs):
+7753
+Current time (seconds): 11763.268215179443
+arcs result (covered arcs):
+7753
+Current time (seconds): 11777.897317171097
+arcs result (covered arcs):
+7753
+Current time (seconds): 11793.60056090355
+arcs result (covered arcs):
+7753
+Current time (seconds): 11808.407475233078
+arcs result (covered arcs):
+7753
+Current time (seconds): 11823.429859876633
+arcs result (covered arcs):
+7753
+Current time (seconds): 11838.40255188942
+arcs result (covered arcs):
+7753
+Current time (seconds): 11853.501858472824
+arcs result (covered arcs):
+7753
+Current time (seconds): 11869.194819688797
+arcs result (covered arcs):
+7753
+Current time (seconds): 11884.791410684586
+arcs result (covered arcs):
+7753
+Current time (seconds): 11899.42149066925
+arcs result (covered arcs):
+7753
+Current time (seconds): 11918.641634702682
+arcs result (covered arcs):
+7753
+Current time (seconds): 11933.546084165573
+arcs result (covered arcs):
+7753
+Current time (seconds): 11952.940623998642
+arcs result (covered arcs):
+7753
+Current time (seconds): 11967.648542642593
+arcs result (covered arcs):
+7753
+Current time (seconds): 11981.89314031601
+arcs result (covered arcs):
+7753
+Current time (seconds): 11997.84533047676
+arcs result (covered arcs):
+7753
+Current time (seconds): 12015.22338604927
+arcs result (covered arcs):
+7753
+Current time (seconds): 12032.860030889511
+arcs result (covered arcs):
+7753
+Current time (seconds): 12050.88352060318
+arcs result (covered arcs):
+7753
+Current time (seconds): 12068.800402879715
+arcs result (covered arcs):
+7753
+Current time (seconds): 12087.324439287186
+arcs result (covered arcs):
+7753
+Current time (seconds): 12105.683324813843
+arcs result (covered arcs):
+7753
+Current time (seconds): 12124.343575000763
+arcs result (covered arcs):
+7753
+Current time (seconds): 12143.637021541595
+arcs result (covered arcs):
+7753
+Current time (seconds): 12162.027802228928
+arcs result (covered arcs):
+7753
+Current time (seconds): 12180.501721382141
+arcs result (covered arcs):
+7753
+Current time (seconds): 12198.222726106644
+arcs result (covered arcs):
+7753
+Current time (seconds): 12216.150069236755
+arcs result (covered arcs):
+7753
+Current time (seconds): 12234.170168876648
+arcs result (covered arcs):
+7753
+Current time (seconds): 12252.026788711548
+arcs result (covered arcs):
+7753
+Current time (seconds): 12269.909890174866
+arcs result (covered arcs):
+7753
+Current time (seconds): 12287.7681183815
+arcs result (covered arcs):
+7753
+Current time (seconds): 12306.249388694763
+arcs result (covered arcs):
+7753
+Current time (seconds): 12324.280354499817
+arcs result (covered arcs):
+7753
+Current time (seconds): 12342.177445173264
+arcs result (covered arcs):
+7753
+Current time (seconds): 12370.76822757721
+arcs result (covered arcs):
+7753
+Current time (seconds): 12389.063193321228
+arcs result (covered arcs):
+7753
+Current time (seconds): 12407.345275640488
+arcs result (covered arcs):
+7753
+Current time (seconds): 12422.905467271805
+arcs result (covered arcs):
+7753
+Current time (seconds): 12441.323487520218
+arcs result (covered arcs):
+7753
+Current time (seconds): 12460.021651744843
+arcs result (covered arcs):
+7753
+Current time (seconds): 12478.85390996933
+arcs result (covered arcs):
+7753
+Current time (seconds): 12497.299605607986
+arcs result (covered arcs):
+7753
+Current time (seconds): 12515.603041172028
+arcs result (covered arcs):
+7753
+Current time (seconds): 12533.55413031578
+arcs result (covered arcs):
+7753
+Current time (seconds): 12552.191438913345
+arcs result (covered arcs):
+7753
+Current time (seconds): 12570.413605213165
+arcs result (covered arcs):
+7753
+Current time (seconds): 12588.374798297882
+arcs result (covered arcs):
+7753
+Current time (seconds): 12606.287698745728
+arcs result (covered arcs):
+7753
+Current time (seconds): 12636.173570156097
+arcs result (covered arcs):
+7753
+Current time (seconds): 12666.07330942154
+arcs result (covered arcs):
+7753
+Current time (seconds): 12684.433136701584
+arcs result (covered arcs):
+7753
+Current time (seconds): 12707.897890806198
+arcs result (covered arcs):
+7753
+Current time (seconds): 12734.345808267593
+arcs result (covered arcs):
+7753
+Current time (seconds): 12754.279084205627
+arcs result (covered arcs):
+7753
+Current time (seconds): 12772.561113119125
+arcs result (covered arcs):
+7753
+Current time (seconds): 12790.37253165245
+arcs result (covered arcs):
+7753
+Current time (seconds): 12814.114349603653
+arcs result (covered arcs):
+7753
+Current time (seconds): 12837.870303153992
+arcs result (covered arcs):
+7753
+Current time (seconds): 12866.543042898178
+arcs result (covered arcs):
+7753
+Current time (seconds): 12884.355226516724
+arcs result (covered arcs):
+7753
+Current time (seconds): 12902.527339220047
+arcs result (covered arcs):
+7753
+Current time (seconds): 12921.121504068375
+arcs result (covered arcs):
+7753
+Current time (seconds): 12939.581127643585
+arcs result (covered arcs):
+7753
+Current time (seconds): 12958.214767456055
+arcs result (covered arcs):
+7753
+Current time (seconds): 12976.159930706024
+arcs result (covered arcs):
+7753
+Current time (seconds): 12993.265791654587
+arcs result (covered arcs):
+7753
+Current time (seconds): 13012.755749464035
+arcs result (covered arcs):
+7753
+Current time (seconds): 13030.824608325958
+arcs result (covered arcs):
+7753
+Current time (seconds): 13049.083763599396
+arcs result (covered arcs):
+7753
+Current time (seconds): 13066.901087999344
+arcs result (covered arcs):
+7753
+Current time (seconds): 13085.479348182678
+arcs result (covered arcs):
+7753
+Current time (seconds): 13108.415999174118
+arcs result (covered arcs):
+7753
+Current time (seconds): 13126.349783182144
+arcs result (covered arcs):
+7753
+Current time (seconds): 13162.122690200806
+arcs result (covered arcs):
+7753
+Current time (seconds): 13194.97967505455
+arcs result (covered arcs):
+7753
+Current time (seconds): 13219.249387264252
+arcs result (covered arcs):
+7753
+Current time (seconds): 13237.191643714905
+arcs result (covered arcs):
+7753
+Current time (seconds): 13256.179951190948
+arcs result (covered arcs):
+7753
+Current time (seconds): 13274.841397762299
+arcs result (covered arcs):
+7753
+Current time (seconds): 13293.083865404129
+arcs result (covered arcs):
+7753
+Current time (seconds): 13310.89486861229
+arcs result (covered arcs):
+7753
+Current time (seconds): 13328.759563446045
+arcs result (covered arcs):
+7753
+Current time (seconds): 13347.014173030853
+arcs result (covered arcs):
+7753
+Current time (seconds): 13364.680057525635
+arcs result (covered arcs):
+7753
+Current time (seconds): 13383.354115247726
+arcs result (covered arcs):
+7753
+Current time (seconds): 13401.253029108047
+arcs result (covered arcs):
+7753
+Current time (seconds): 13425.639125823975
+arcs result (covered arcs):
+7753
+Current time (seconds): 13444.216563940048
+arcs result (covered arcs):
+7753
+Current time (seconds): 13461.944784879684
+arcs result (covered arcs):
+7753
+Current time (seconds): 13480.07042837143
+arcs result (covered arcs):
+7753
+Current time (seconds): 13497.847382307053
+arcs result (covered arcs):
+7753
+Current time (seconds): 13515.63736462593
+arcs result (covered arcs):
+7753
+Current time (seconds): 13534.099140644073
+arcs result (covered arcs):
+7753
+Current time (seconds): 13552.75643658638
+arcs result (covered arcs):
+7753
+Current time (seconds): 13577.459258794785
+arcs result (covered arcs):
+7753
+Current time (seconds): 13607.043563127518
+arcs result (covered arcs):
+7753
+Current time (seconds): 13625.468798398972
+arcs result (covered arcs):
+7753
+Current time (seconds): 13648.059030056
+arcs result (covered arcs):
+7753
+Current time (seconds): 13666.760917901993
+arcs result (covered arcs):
+7753
+Current time (seconds): 13684.794449090958
+arcs result (covered arcs):
+7753
+Current time (seconds): 13703.468346357346
+arcs result (covered arcs):
+7753
+Current time (seconds): 13721.343632221222
+arcs result (covered arcs):
+7753
+Current time (seconds): 13739.30011677742
+arcs result (covered arcs):
+7753
+Current time (seconds): 13763.627091407776
+arcs result (covered arcs):
+7753
+Current time (seconds): 13781.70674753189
+arcs result (covered arcs):
+7753
+Current time (seconds): 13800.049638748169
+arcs result (covered arcs):
+7753
+Current time (seconds): 13818.523849248886
+arcs result (covered arcs):
+7753
+Current time (seconds): 13843.171097755432
+arcs result (covered arcs):
+7753
+Current time (seconds): 13861.054383993149
+arcs result (covered arcs):
+7753
+Current time (seconds): 13878.959056854248
+arcs result (covered arcs):
+7753
+Current time (seconds): 13897.42647433281
+arcs result (covered arcs):
+7753
+Current time (seconds): 13921.135759592056
+arcs result (covered arcs):
+7753
+Current time (seconds): 13943.861676454544
+arcs result (covered arcs):
+7753
+Current time (seconds): 13962.220898151398
+arcs result (covered arcs):
+7753
+Current time (seconds): 13980.088885307312
+arcs result (covered arcs):
+7753
+Current time (seconds): 13998.264184236526
+arcs result (covered arcs):
+7753
+Current time (seconds): 14022.78820347786
+arcs result (covered arcs):
+7753
+Current time (seconds): 14041.530168056488
+arcs result (covered arcs):
+7753
+Current time (seconds): 14059.995638132095
+arcs result (covered arcs):
+7753
+Current time (seconds): 14084.235831022263
+arcs result (covered arcs):
+7753
+Current time (seconds): 14102.336416959763
+arcs result (covered arcs):
+7753
+Current time (seconds): 14120.819212198257
+arcs result (covered arcs):
+7753
+Current time (seconds): 14138.638043403625
+arcs result (covered arcs):
+7753
+Current time (seconds): 14156.741680383682
+arcs result (covered arcs):
+7753
+Current time (seconds): 14197.048525571823
+arcs result (covered arcs):
+7753
+Current time (seconds): 14216.132975816727
+arcs result (covered arcs):
+7753
+Current time (seconds): 14240.115756750107
+arcs result (covered arcs):
+7753
+Current time (seconds): 14267.71588563919
+arcs result (covered arcs):
+7753
+Current time (seconds): 14285.519718647003
+arcs result (covered arcs):
+7753
+Current time (seconds): 14303.472896814346
+arcs result (covered arcs):
+7753
+Current time (seconds): 14322.272629737854
+arcs result (covered arcs):
+7753
+Current time (seconds): 14341.037490606308
+arcs result (covered arcs):
+7753
+Current time (seconds): 14359.65111541748
+arcs result (covered arcs):
+7753
+Current time (seconds): 14380.840679645538
+arcs result (covered arcs):
+7753
+Current time (seconds): 14399.679970502853
+arcs result (covered arcs):
+7753
+Current time (seconds): 14417.892271995544
+arcs result (covered arcs):
+7753
+Current time (seconds): 14447.626442193985
+arcs result (covered arcs):
+7753
+Current time (seconds): 14466.301360845566
+arcs result (covered arcs):
+7753
+Current time (seconds): 14484.971486568451
+arcs result (covered arcs):
+7753
+Current time (seconds): 14502.12730383873
+arcs result (covered arcs):
+7753
+Current time (seconds): 14529.417847156525
+arcs result (covered arcs):
+7753
+Current time (seconds): 14556.432754278183
+arcs result (covered arcs):
+7753
+Current time (seconds): 14574.501008749008
+arcs result (covered arcs):
+7753
+Current time (seconds): 14599.143599033356
+arcs result (covered arcs):
+7753
+Current time (seconds): 14617.175614833832
+arcs result (covered arcs):
+7753
+Current time (seconds): 14636.021265506744
+arcs result (covered arcs):
+7753
+Current time (seconds): 14671.89916729927
+arcs result (covered arcs):
+7753
+Current time (seconds): 14694.34106683731
+arcs result (covered arcs):
+7753
+Current time (seconds): 14713.137033462524
+arcs result (covered arcs):
+7753
+Current time (seconds): 14731.227144002914
+arcs result (covered arcs):
+7753
+Current time (seconds): 14755.117053985596
+arcs result (covered arcs):
+7753
+Current time (seconds): 14774.03910112381
+arcs result (covered arcs):
+7753
+Current time (seconds): 14792.625003814697
+arcs result (covered arcs):
+7753
+Current time (seconds): 14810.914520740509
+arcs result (covered arcs):
+7753
+Current time (seconds): 14835.710803747177
+arcs result (covered arcs):
+7753
+Current time (seconds): 14854.13501548767
+arcs result (covered arcs):
+7753
+Current time (seconds): 14873.204205036163
+arcs result (covered arcs):
+7753
+Current time (seconds): 14897.783770084381
+arcs result (covered arcs):
+7753
+Current time (seconds): 14915.9536383152
+arcs result (covered arcs):
+7753
+Current time (seconds): 14934.046074867249
+arcs result (covered arcs):
+7753
+Current time (seconds): 14952.1529006958
+arcs result (covered arcs):
+7753
+Current time (seconds): 14976.606402158737
+arcs result (covered arcs):
+7753
+Current time (seconds): 14995.016608715057
+arcs result (covered arcs):
+7753
+Current time (seconds): 15019.095152139664
+arcs result (covered arcs):
+7753
+Current time (seconds): 15037.205574274063
+arcs result (covered arcs):
+7753
+Current time (seconds): 15055.5346429348
+arcs result (covered arcs):
+7753
+Current time (seconds): 15073.9653506279
+arcs result (covered arcs):
+7753
+Current time (seconds): 15092.179525375366
+arcs result (covered arcs):
+7753
+Current time (seconds): 15110.45578122139
+arcs result (covered arcs):
+7753
+Current time (seconds): 15134.2534968853
+arcs result (covered arcs):
+7753
+Current time (seconds): 15152.238859176636
+arcs result (covered arcs):
+7753
+Current time (seconds): 15170.324517726898
+arcs result (covered arcs):
+7753
+Current time (seconds): 15189.214084148407
+arcs result (covered arcs):
+7753
+Current time (seconds): 15207.306014299393
+arcs result (covered arcs):
+7753
+Current time (seconds): 15225.515947580338
+arcs result (covered arcs):
+7753
+Current time (seconds): 15244.327751398087
+arcs result (covered arcs):
+7753
+Current time (seconds): 15268.528739452362
+arcs result (covered arcs):
+7753
+Current time (seconds): 15287.265863656998
+arcs result (covered arcs):
+7753
+Current time (seconds): 15304.901256799698
+arcs result (covered arcs):
+7753
+Current time (seconds): 15323.123861551285
+arcs result (covered arcs):
+7753
+Current time (seconds): 15341.595159292221
+arcs result (covered arcs):
+7753
+Current time (seconds): 15359.491578817368
+arcs result (covered arcs):
+7753
+Current time (seconds): 15377.615134716034
+arcs result (covered arcs):
+7753
+Current time (seconds): 15396.070254325867
+arcs result (covered arcs):
+7753
+Current time (seconds): 15414.748897075653
+arcs result (covered arcs):
+7753
+Current time (seconds): 15432.172654151917
+arcs result (covered arcs):
+7753
+Current time (seconds): 15451.013738632202
+arcs result (covered arcs):
+7753
+Current time (seconds): 15468.456270217896
+arcs result (covered arcs):
+7753
+Current time (seconds): 15487.1216776371
+arcs result (covered arcs):
+7753
+Current time (seconds): 15512.336695194244
+arcs result (covered arcs):
+7753
+Current time (seconds): 15543.158042430878
+arcs result (covered arcs):
+7753
+Current time (seconds): 15567.361736059189
+arcs result (covered arcs):
+7753
+Current time (seconds): 15585.929069519043
+arcs result (covered arcs):
+7753
+Current time (seconds): 15604.780963897705
+arcs result (covered arcs):
+7753
+Current time (seconds): 15623.050822496414
+arcs result (covered arcs):
+7753
+Current time (seconds): 15642.040221691132
+arcs result (covered arcs):
+7753
+Current time (seconds): 15660.209263324738
+arcs result (covered arcs):
+7753
+Current time (seconds): 15679.093522548676
+arcs result (covered arcs):
+7753
+Current time (seconds): 15703.686987161636
+arcs result (covered arcs):
+7753
+Current time (seconds): 15728.77548456192
+arcs result (covered arcs):
+7753
+Current time (seconds): 15747.129513978958
+arcs result (covered arcs):
+7753
+Current time (seconds): 15765.34001994133
+arcs result (covered arcs):
+7753
+Current time (seconds): 15782.716229438782
+arcs result (covered arcs):
+7753
+Current time (seconds): 15801.457959890366
+arcs result (covered arcs):
+7753
+Current time (seconds): 15820.64700293541
+arcs result (covered arcs):
+7753
+Current time (seconds): 15838.971938610077
+arcs result (covered arcs):
+7753
+Current time (seconds): 15857.07558465004
+arcs result (covered arcs):
+7753
+Current time (seconds): 15882.300958395004
+arcs result (covered arcs):
+7753
+Current time (seconds): 15901.231173992157
+arcs result (covered arcs):
+7753
+Current time (seconds): 15918.45321559906
+arcs result (covered arcs):
+7753
+Current time (seconds): 15936.811519384384
+arcs result (covered arcs):
+7753
+Current time (seconds): 15956.020447969437
+arcs result (covered arcs):
+7753
+Current time (seconds): 15974.80457162857
+arcs result (covered arcs):
+7753
+Current time (seconds): 15993.54529452324
+arcs result (covered arcs):
+7753
+Current time (seconds): 16013.051854848862
+arcs result (covered arcs):
+7753
+Current time (seconds): 16031.406786680222
+arcs result (covered arcs):
+7753
+Current time (seconds): 16050.346612215042
+arcs result (covered arcs):
+7753
+Current time (seconds): 16068.992279291153
+arcs result (covered arcs):
+7753
+Current time (seconds): 16099.365404844284
+arcs result (covered arcs):
+7753
+Current time (seconds): 16124.576642274857
+arcs result (covered arcs):
+7753
+Current time (seconds): 16149.541233301163
+arcs result (covered arcs):
+7753
+Current time (seconds): 16183.731844425201
+arcs result (covered arcs):
+7753
+Current time (seconds): 16203.104166507721
+arcs result (covered arcs):
+7753
+Current time (seconds): 16221.184223413467
+arcs result (covered arcs):
+7753
+Current time (seconds): 16245.885254621506
+arcs result (covered arcs):
+7753
+Current time (seconds): 16264.082995176315
+arcs result (covered arcs):
+7753
+Current time (seconds): 16282.186422586441
+arcs result (covered arcs):
+7753
+Current time (seconds): 16300.510885477066
+arcs result (covered arcs):
+7753
+Current time (seconds): 16319.268082618713
+arcs result (covered arcs):
+7753
+Current time (seconds): 16337.66534781456
+arcs result (covered arcs):
+7753
+Current time (seconds): 16368.582024812698
+arcs result (covered arcs):
+7753
+Current time (seconds): 16386.605553388596
+arcs result (covered arcs):
+7753
+Current time (seconds): 16404.811703920364
+arcs result (covered arcs):
+7753
+Current time (seconds): 16423.35201048851
+arcs result (covered arcs):
+7753
+Current time (seconds): 16442.105207443237
+arcs result (covered arcs):
+7753
+Current time (seconds): 16460.238087415695
+arcs result (covered arcs):
+7753
+Current time (seconds): 16478.482157945633
+arcs result (covered arcs):
+7753
+Current time (seconds): 16497.342309951782
+arcs result (covered arcs):
+7753
+Current time (seconds): 16515.64219403267
+arcs result (covered arcs):
+7753
+Current time (seconds): 16533.043975114822
+arcs result (covered arcs):
+7753
+Current time (seconds): 16551.599140167236
+arcs result (covered arcs):
+7753
+Current time (seconds): 16568.910041809082
+arcs result (covered arcs):
+7753
+Current time (seconds): 16587.209812402725
+arcs result (covered arcs):
+7753
+Current time (seconds): 16606.142900705338
+arcs result (covered arcs):
+7753
+Current time (seconds): 16624.480489730835
+arcs result (covered arcs):
+7753
+Current time (seconds): 16644.360419988632
+arcs result (covered arcs):
+7753
+Current time (seconds): 16662.798178195953
+arcs result (covered arcs):
+7753
+Current time (seconds): 16681.41265296936
+arcs result (covered arcs):
+7753
+Current time (seconds): 16706.67121195793
+arcs result (covered arcs):
+7753
+Current time (seconds): 16725.182894706726
+arcs result (covered arcs):
+7753
+Current time (seconds): 16743.908667325974
+arcs result (covered arcs):
+7753
+Current time (seconds): 16775.164879322052
+arcs result (covered arcs):
+7753
+Current time (seconds): 16800.47656750679
+arcs result (covered arcs):
+7753
+Current time (seconds): 16818.695427894592
+arcs result (covered arcs):
+7753
+Current time (seconds): 16836.06375026703
+arcs result (covered arcs):
+7753
+Current time (seconds): 16854.912799358368
+arcs result (covered arcs):
+7753
+Current time (seconds): 16873.260709285736
+arcs result (covered arcs):
+7753
+Current time (seconds): 16915.727599859238
+arcs result (covered arcs):
+7753
+Current time (seconds): 16940.338962078094
+arcs result (covered arcs):
+7753
+Current time (seconds): 16958.834731578827
+arcs result (covered arcs):
+7753
+Current time (seconds): 16983.788932323456
+arcs result (covered arcs):
+7753
+Current time (seconds): 17008.185440063477
+arcs result (covered arcs):
+7753
+Current time (seconds): 17026.548993110657
+arcs result (covered arcs):
+7753
+Current time (seconds): 17044.92969894409
+arcs result (covered arcs):
+7753
+Current time (seconds): 17063.084266901016
+arcs result (covered arcs):
+7753
+Current time (seconds): 17088.611216068268
+arcs result (covered arcs):
+7753
+Current time (seconds): 17108.407688379288
+arcs result (covered arcs):
+7753
+Current time (seconds): 17127.002044677734
+arcs result (covered arcs):
+7753
+Current time (seconds): 17147.161419153214
+arcs result (covered arcs):
+7753
+Current time (seconds): 17165.855368852615
+arcs result (covered arcs):
+7753
+Current time (seconds): 17186.766706466675
+arcs result (covered arcs):
+7753
+Current time (seconds): 17206.651302576065
+arcs result (covered arcs):
+7753
+Current time (seconds): 17225.36174249649
+arcs result (covered arcs):
+7753
+Current time (seconds): 17247.195709228516
+arcs result (covered arcs):
+7753
+Current time (seconds): 17265.81301832199
+arcs result (covered arcs):
+7753
+Current time (seconds): 17284.0316157341
+arcs result (covered arcs):
+7753
+Current time (seconds): 17302.26780319214
+arcs result (covered arcs):
+7753
+Current time (seconds): 17327.064575195312
+arcs result (covered arcs):
+7753
+Current time (seconds): 17346.02628350258
+arcs result (covered arcs):
+7753
+Current time (seconds): 17363.807985782623
+arcs result (covered arcs):
+7753
+Current time (seconds): 17384.720287561417
+arcs result (covered arcs):
+7753
+Current time (seconds): 17410.0938808918
+arcs result (covered arcs):
+7753
+Current time (seconds): 17441.14945936203
+arcs result (covered arcs):
+7753
+Current time (seconds): 17472.019441604614
+arcs result (covered arcs):
+7753
+Current time (seconds): 17490.20563173294
+arcs result (covered arcs):
+7753
+Current time (seconds): 17508.534715890884
+arcs result (covered arcs):
+7753
+Current time (seconds): 17528.373489141464
+arcs result (covered arcs):
+7753
+Current time (seconds): 17546.664653778076
+arcs result (covered arcs):
+7753
+Current time (seconds): 17565.368548870087
+arcs result (covered arcs):
+7753
+Current time (seconds): 17584.54207134247
+arcs result (covered arcs):
+7753
+Current time (seconds): 17609.224434137344
+arcs result (covered arcs):
+7753
+Current time (seconds): 17633.91228723526
+arcs result (covered arcs):
+7753
+Current time (seconds): 17653.084447145462
+arcs result (covered arcs):
+7753
+Current time (seconds): 17675.084596157074
+arcs result (covered arcs):
+7753
+Current time (seconds): 17692.512235164642
+arcs result (covered arcs):
+7753
+Current time (seconds): 17710.68055820465
+arcs result (covered arcs):
+7753
+Current time (seconds): 17729.638565540314
+arcs result (covered arcs):
+7753
+Current time (seconds): 17747.94392800331
+arcs result (covered arcs):
+7753
+Current time (seconds): 17772.559750556946
+arcs result (covered arcs):
+7753
+Current time (seconds): 17790.93031859398
+arcs result (covered arcs):
+7753
+Current time (seconds): 17815.179722309113
+arcs result (covered arcs):
+7753
+Current time (seconds): 17834.213572740555
+arcs result (covered arcs):
+7753
+Current time (seconds): 17853.397844076157
+arcs result (covered arcs):
+7753
+Current time (seconds): 17871.637766599655
+arcs result (covered arcs):
+7753
+Current time (seconds): 17889.99915909767
+arcs result (covered arcs):
+7753
+Current time (seconds): 17920.814349412918
+arcs result (covered arcs):
+7753
+Current time (seconds): 17939.21780729294
+arcs result (covered arcs):
+7753
+Current time (seconds): 17970.3926820755
+arcs result (covered arcs):
+7753
+Current time (seconds): 17988.606471776962
+arcs result (covered arcs):
+7753
+Current time (seconds): 18009.86237192154
+arcs result (covered arcs):
+7753
+Current time (seconds): 18027.453370571136
+arcs result (covered arcs):
+7753
+Current time (seconds): 18046.420988082886
+arcs result (covered arcs):
+7753
+Current time (seconds): 18065.646129131317
+arcs result (covered arcs):
+7753
+Current time (seconds): 18084.15065407753
+arcs result (covered arcs):
+7753
+Current time (seconds): 18102.429286003113
+arcs result (covered arcs):
+7753
+Current time (seconds): 18120.011626958847
+arcs result (covered arcs):
+7753
+Current time (seconds): 18145.49662923813
+arcs result (covered arcs):
+7753
+Current time (seconds): 18163.672165632248
+arcs result (covered arcs):
+7753
+Current time (seconds): 18182.48465037346
+arcs result (covered arcs):
+7753
+Current time (seconds): 18201.202882289886
+arcs result (covered arcs):
+7753
+Current time (seconds): 18219.490183115005
+arcs result (covered arcs):
+7753
+Current time (seconds): 18249.567370176315
+arcs result (covered arcs):
+7753
+Current time (seconds): 18268.141364097595
+arcs result (covered arcs):
+7753
+Current time (seconds): 18293.278629541397
+arcs result (covered arcs):
+7753
+Current time (seconds): 18311.5745139122
+arcs result (covered arcs):
+7753
+Current time (seconds): 18330.06044769287
+arcs result (covered arcs):
+7753
+Current time (seconds): 18348.96449279785
+arcs result (covered arcs):
+7753
+Current time (seconds): 18367.119347333908
+arcs result (covered arcs):
+7753
+Current time (seconds): 18387.56064414978
+arcs result (covered arcs):
+7753
+Current time (seconds): 18412.85371541977
+arcs result (covered arcs):
+7753
+Current time (seconds): 18431.96477484703
+arcs result (covered arcs):
+7753
+Current time (seconds): 18460.840574502945
+arcs result (covered arcs):
+7753
+Current time (seconds): 18489.8722345829
+arcs result (covered arcs):
+7753
+Current time (seconds): 18508.42108464241
+arcs result (covered arcs):
+7753
+Current time (seconds): 18527.054839611053
+arcs result (covered arcs):
+7753
+Current time (seconds): 18561.465383052826
+arcs result (covered arcs):
+7753
+Current time (seconds): 18580.36479139328
+arcs result (covered arcs):
+7753
+Current time (seconds): 18599.469019651413
+arcs result (covered arcs):
+7753
+Current time (seconds): 18618.033408641815
+arcs result (covered arcs):
+7753
+Current time (seconds): 18642.647022247314
+arcs result (covered arcs):
+7753
+Current time (seconds): 18661.98374915123
+arcs result (covered arcs):
+7753
+Current time (seconds): 18680.750493764877
+arcs result (covered arcs):
+7753
+Current time (seconds): 18699.90546131134
+arcs result (covered arcs):
+7753
+Current time (seconds): 18720.51449251175
+arcs result (covered arcs):
+7753
+Current time (seconds): 18748.99232530594
+arcs result (covered arcs):
+7753
+Current time (seconds): 18777.188307762146
+arcs result (covered arcs):
+7753
+Current time (seconds): 18801.423775196075
+arcs result (covered arcs):
+7753
+Current time (seconds): 18826.59719491005
+arcs result (covered arcs):
+7753
+Current time (seconds): 18845.076642513275
+arcs result (covered arcs):
+7753
+Current time (seconds): 18864.218760252
+arcs result (covered arcs):
+7753
+Current time (seconds): 18881.66239452362
+arcs result (covered arcs):
+7753
+Current time (seconds): 18900.0710272789
+arcs result (covered arcs):
+7753
+Current time (seconds): 18918.60933971405
+arcs result (covered arcs):
+7753
+Current time (seconds): 18937.251474142075
+arcs result (covered arcs):
+7753
+Current time (seconds): 18962.485147714615
+arcs result (covered arcs):
+7753
+Current time (seconds): 18980.867522478104
+arcs result (covered arcs):
+7755
+Current time (seconds): 18999.125849962234
+arcs result (covered arcs):
+7755
+Current time (seconds): 19017.247188806534
+arcs result (covered arcs):
+7755
+Current time (seconds): 19035.9400203228
+arcs result (covered arcs):
+7755
+Current time (seconds): 19054.73499894142
+arcs result (covered arcs):
+7755
+Current time (seconds): 19073.799251317978
+arcs result (covered arcs):
+7755
+Current time (seconds): 19098.414071798325
+arcs result (covered arcs):
+7755
+Current time (seconds): 19124.02364706993
+arcs result (covered arcs):
+7755
+Current time (seconds): 19143.730960845947
+arcs result (covered arcs):
+7755
+Current time (seconds): 19174.592821121216
+arcs result (covered arcs):
+7755
+Current time (seconds): 19193.60217356682
+arcs result (covered arcs):
+7755
+Current time (seconds): 19211.780774593353
+arcs result (covered arcs):
+7755
+Current time (seconds): 19241.002203941345
+arcs result (covered arcs):
+7755
+Current time (seconds): 19259.59064435959
+arcs result (covered arcs):
+7755
+Current time (seconds): 19277.331740140915
+arcs result (covered arcs):
+7755
+Current time (seconds): 19303.92381453514
+arcs result (covered arcs):
+7755
+Current time (seconds): 19328.604587078094
+arcs result (covered arcs):
+7755
+Current time (seconds): 19347.158096551895
+arcs result (covered arcs):
+7755
+Current time (seconds): 19365.46394276619
+arcs result (covered arcs):
+7755
+Current time (seconds): 19383.92127585411
+arcs result (covered arcs):
+7755
+Current time (seconds): 19408.745831012726
+arcs result (covered arcs):
+7755
+Current time (seconds): 19433.37239742279
+arcs result (covered arcs):
+7755
+Current time (seconds): 19458.19638824463
+arcs result (covered arcs):
+7755
+Current time (seconds): 19476.743960142136
+arcs result (covered arcs):
+7755
+Current time (seconds): 19500.71688055992
+arcs result (covered arcs):
+7755
+Current time (seconds): 19525.836594343185
+arcs result (covered arcs):
+7755
+Current time (seconds): 19544.358388900757
+arcs result (covered arcs):
+7755
+Current time (seconds): 19564.055372953415
+arcs result (covered arcs):
+7755
+Current time (seconds): 19583.002822637558
+arcs result (covered arcs):
+7755
+Current time (seconds): 19608.520564317703
+arcs result (covered arcs):
+7755
+Current time (seconds): 19627.38707137108
+arcs result (covered arcs):
+7755
+Current time (seconds): 19655.490924835205
+arcs result (covered arcs):
+7755
+Current time (seconds): 19674.105182409286
+arcs result (covered arcs):
+7755
+Current time (seconds): 19692.34911298752
+arcs result (covered arcs):
+7755
+Current time (seconds): 19719.451177835464
+arcs result (covered arcs):
+7755
+Current time (seconds): 19738.272485017776
+arcs result (covered arcs):
+7755
+Current time (seconds): 19756.510476112366
+arcs result (covered arcs):
+7755
+Current time (seconds): 19775.741239070892
+arcs result (covered arcs):
+7755
+Current time (seconds): 19793.56177163124
+arcs result (covered arcs):
+7755
+Current time (seconds): 19834.731835365295
+arcs result (covered arcs):
+7755
+Current time (seconds): 19853.27841258049
+arcs result (covered arcs):
+7755
+Current time (seconds): 19872.554636240005
+arcs result (covered arcs):
+7755
+Current time (seconds): 19891.39110851288
+arcs result (covered arcs):
+7758
+Current time (seconds): 19916.303176403046
+arcs result (covered arcs):
+7758
+Current time (seconds): 19937.200277090073
+arcs result (covered arcs):
+7758
+Current time (seconds): 19955.581810235977
+arcs result (covered arcs):
+7758
+Current time (seconds): 19973.862642765045
+arcs result (covered arcs):
+7758
+Current time (seconds): 19992.923300743103
+arcs result (covered arcs):
+7758
+Current time (seconds): 20011.684554100037
+arcs result (covered arcs):
+7758
+Current time (seconds): 20030.073692321777
+arcs result (covered arcs):
+7758
+Current time (seconds): 20048.696266651154
+arcs result (covered arcs):
+7758
+Current time (seconds): 20067.104690551758
+arcs result (covered arcs):
+7758
+Current time (seconds): 20085.74445438385
+arcs result (covered arcs):
+7758
+Current time (seconds): 20105.007116556168
+arcs result (covered arcs):
+7758
+Current time (seconds): 20129.286985874176
+arcs result (covered arcs):
+7758
+Current time (seconds): 20147.810507297516
+arcs result (covered arcs):
+7758
+Current time (seconds): 20166.537704706192
+arcs result (covered arcs):
+7758
+Current time (seconds): 20185.055891036987
+arcs result (covered arcs):
+7758
+Current time (seconds): 20203.688677549362
+arcs result (covered arcs):
+7758
+Current time (seconds): 20229.020733594894
+arcs result (covered arcs):
+7758
+Current time (seconds): 20247.303178071976
+arcs result (covered arcs):
+7758
+Current time (seconds): 20273.169016838074
+arcs result (covered arcs):
+7758
+Current time (seconds): 20292.420454740524
+arcs result (covered arcs):
+7758
+Current time (seconds): 20311.53861308098
+arcs result (covered arcs):
+7758
+Current time (seconds): 20340.554481983185
+arcs result (covered arcs):
+7758
+Current time (seconds): 20370.652253627777
+arcs result (covered arcs):
+7758
+Current time (seconds): 20395.547093868256
+arcs result (covered arcs):
+7758
+Current time (seconds): 20414.687361240387
+arcs result (covered arcs):
+7758
+Current time (seconds): 20433.675026893616
+arcs result (covered arcs):
+7758
+Current time (seconds): 20452.86750817299
+arcs result (covered arcs):
+7758
+Current time (seconds): 20471.841379880905
+arcs result (covered arcs):
+7758
+Current time (seconds): 20491.134261369705
+arcs result (covered arcs):
+7758
+Current time (seconds): 20516.23866558075
+arcs result (covered arcs):
+7758
+Current time (seconds): 20535.021130800247
+arcs result (covered arcs):
+7758
+Current time (seconds): 20554.25848174095
+arcs result (covered arcs):
+7758
+Current time (seconds): 20572.917382717133
+arcs result (covered arcs):
+7758
+Current time (seconds): 20591.780019044876
+arcs result (covered arcs):
+7758
+Current time (seconds): 20610.531142950058
+arcs result (covered arcs):
+7758
+Current time (seconds): 20629.300186157227
+arcs result (covered arcs):
+7758
+Current time (seconds): 20648.61313509941
+arcs result (covered arcs):
+7758
+Current time (seconds): 20693.648470401764
+arcs result (covered arcs):
+7758
+Current time (seconds): 20721.877559900284
+arcs result (covered arcs):
+7758
+Current time (seconds): 20750.73089814186
+arcs result (covered arcs):
+7758
+Current time (seconds): 20776.92621731758
+arcs result (covered arcs):
+7758
+Current time (seconds): 20796.04356622696
+arcs result (covered arcs):
+7758
+Current time (seconds): 20815.29803967476
+arcs result (covered arcs):
+7758
+Current time (seconds): 20834.534945249557
+arcs result (covered arcs):
+7758
+Current time (seconds): 20867.134361982346
+arcs result (covered arcs):
+7758
+Current time (seconds): 20885.696541786194
+arcs result (covered arcs):
+7758
+Current time (seconds): 20910.844052553177
+arcs result (covered arcs):
+7758
+Current time (seconds): 20936.359352350235
+arcs result (covered arcs):
+7758
+Current time (seconds): 20955.054195404053
+arcs result (covered arcs):
+7758
+Current time (seconds): 20986.848248243332
+arcs result (covered arcs):
+7758
+Current time (seconds): 21037.98050379753
+arcs result (covered arcs):
+7758
+Current time (seconds): 21056.934117794037
+arcs result (covered arcs):
+7758
+Current time (seconds): 21076.501096010208
+arcs result (covered arcs):
+7758
+Current time (seconds): 21095.159029960632
+arcs result (covered arcs):
+7758
+Current time (seconds): 21114.52207517624
+arcs result (covered arcs):
+7758
+Current time (seconds): 21133.558361053467
+arcs result (covered arcs):
+7758
+Current time (seconds): 21152.013842344284
+arcs result (covered arcs):
+7758
+Current time (seconds): 21175.772146224976
+arcs result (covered arcs):
+7758
+Current time (seconds): 21194.58224773407
+arcs result (covered arcs):
+7758
+Current time (seconds): 21213.38954973221
+arcs result (covered arcs):
+7758
+Current time (seconds): 21231.96571278572
+arcs result (covered arcs):
+7758
+Current time (seconds): 21250.68235874176
+arcs result (covered arcs):
+7758
+Current time (seconds): 21269.548149824142
+arcs result (covered arcs):
+7758
+Current time (seconds): 21288.172985315323
+arcs result (covered arcs):
+7758
+Current time (seconds): 21307.0368103981
+arcs result (covered arcs):
+7758
+Current time (seconds): 21325.01250600815
+arcs result (covered arcs):
+7758
+Current time (seconds): 21343.717518806458
+arcs result (covered arcs):
+7758
+Current time (seconds): 21362.46688938141
+arcs result (covered arcs):
+7758
+Current time (seconds): 21395.105360746384
+arcs result (covered arcs):
+7758
+Current time (seconds): 21413.879128217697
+arcs result (covered arcs):
+7758
+Current time (seconds): 21439.07895040512
+arcs result (covered arcs):
+7758
+Current time (seconds): 21471.24473643303
+arcs result (covered arcs):
+7758
+Current time (seconds): 21516.209470510483
+arcs result (covered arcs):
+7758
+Current time (seconds): 21560.645625829697
+arcs result (covered arcs):
+7758
+Current time (seconds): 21579.372718334198
+arcs result (covered arcs):
+7758
+Current time (seconds): 21598.028676986694
+arcs result (covered arcs):
+7758
+Current time (seconds): 21616.87335205078
+arcs result (covered arcs):
+7758

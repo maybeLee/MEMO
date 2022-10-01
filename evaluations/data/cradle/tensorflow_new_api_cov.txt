@@ -1,0 +1,30 @@
+Current time (seconds): 12.703039169311523
+api coverage result (covered api; covered api pair; covered config; covered input; covered ndims; covered dtype; covered shape):
+0.07462686567164178; 0.0011138338159946536; 0.01708150317227916; 0.028720626631853787; 0.042735042735042736; 0.014124293785310734; 0.04067796610169491
+Current time (seconds): 40.49202823638916
+api coverage result (covered api; covered api pair; covered config; covered input; covered ndims; covered dtype; covered shape):
+0.08955223880597014; 0.001559367342392515; 0.027818448023426062; 0.037859007832898174; 0.05982905982905983; 0.01694915254237288; 0.05423728813559322
+Current time (seconds): 51.46124625205994
+api coverage result (covered api; covered api pair; covered config; covered input; covered ndims; covered dtype; covered shape):
+0.1044776119402985; 0.0022276676319893073; 0.030258662762323085; 0.04699738903394256; 0.06837606837606838; 0.01977401129943503; 0.0711864406779661
+Current time (seconds): 63.63544034957886
+api coverage result (covered api; covered api pair; covered config; covered input; covered ndims; covered dtype; covered shape):
+0.14925373134328357; 0.00311873468478503; 0.035627135187896536; 0.0639686684073107; 0.08547008547008547; 0.025423728813559324; 0.1016949152542373
+Current time (seconds): 94.63133764266968
+api coverage result (covered api; covered api pair; covered config; covered input; covered ndims; covered dtype; covered shape):
+0.16417910447761194; 0.003341501447983961; 0.035627135187896536; 0.06527415143603134; 0.08547008547008547; 0.025423728813559324; 0.10508474576271186
+Current time (seconds): 120.91070747375488
+api coverage result (covered api; covered api pair; covered config; covered input; covered ndims; covered dtype; covered shape):
+0.1791044776119403; 0.003787034974381822; 0.04489995119570522; 0.07702349869451697; 0.09401709401709402; 0.02824858757062147; 0.1288135593220339
+Current time (seconds): 154.59927773475647
+api coverage result (covered api; covered api pair; covered config; covered input; covered ndims; covered dtype; covered shape):
+0.208955223880597; 0.005346402316774337; 0.055636896046852125; 0.10052219321148825; 0.1111111111111111; 0.03389830508474576; 0.17627118644067796
+Current time (seconds): 173.74517440795898
+api coverage result (covered api; covered api pair; covered config; covered input; covered ndims; covered dtype; covered shape):
+0.208955223880597; 0.005569169079973268; 0.05856515373352855; 0.10182767624020887; 0.1111111111111111; 0.03389830508474576; 0.17966101694915254
+Current time (seconds): 230.79508781433105
+api coverage result (covered api; covered api pair; covered config; covered input; covered ndims; covered dtype; covered shape):
+0.208955223880597; 0.005569169079973268; 0.05856515373352855; 0.10182767624020887; 0.1111111111111111; 0.03389830508474576; 0.17966101694915254
+Current time (seconds): 259.16416907310486
+api coverage result (covered api; covered api pair; covered config; covered input; covered ndims; covered dtype; covered shape):
+0.208955223880597; 0.005569169079973268; 0.05856515373352855; 0.10443864229765012; 0.1111111111111111; 0.03389830508474576; 0.1864406779661017
