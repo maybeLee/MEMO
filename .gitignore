@@ -6,3 +6,5 @@ data/*
 **temp_stdout**
 **.pickle
 **all_coverage**
+**.DS_Store**
+**origin_models**
