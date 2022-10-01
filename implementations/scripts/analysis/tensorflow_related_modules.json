@@ -1,12 +1,12 @@
 {
-  "/data/ziniu/anaconda3/envs/tensorflow/lib/python3.7/site-packages/keras":
+  "/xxx/anaconda3/envs/tensorflow/lib/python3.7/site-packages/keras":
           [
             "backend.py",
             "regularizers.py",
             "constraints.py",
             "activations.py"
           ],
-  "/data/ziniu/anaconda3/envs/tensorflow/lib/python3.7/site-packages/keras/layers":
+  "/xxx/anaconda3/envs/tensorflow/lib/python3.7/site-packages/keras/layers":
           [
             "convolutional.py",
             "recurrent.py",
@@ -18,10 +18,10 @@
             "noise.py",
             "wrappers.py"
           ],
-  "/data/ziniu/anaconda3/envs/tensorflow/lib/python3.7/site-packages/keras/layers/normalization": [
+  "/xxx/anaconda3/envs/tensorflow/lib/python3.7/site-packages/keras/layers/normalization": [
             "batch_normalization.py"
           ],
-  "/data/ziniu/anaconda3/envs/tensorflow/lib/python3.7/site-packages/keras/layers/core": [
+  "/xxx/anaconda3/envs/tensorflow/lib/python3.7/site-packages/keras/layers/core": [
             "lambda_layer.py",
             "spatial_dropout.py",
             "reshape.py",
@@ -33,21 +33,21 @@
             "activation.py",
             "activity_regularization.py"
           ],
-  "/data/ziniu/anaconda3/envs/tensorflow/lib/python3.7/site-packages/keras/saving": [
+  "/xxx/anaconda3/envs/tensorflow/lib/python3.7/site-packages/keras/saving": [
             "hdf5_format.py"
           ],
-  "/data/ziniu/anaconda3/envs/tensorflow/lib/python3.7/site-packages/tensorflow/python/ops":
+  "/xxx/anaconda3/envs/tensorflow/lib/python3.7/site-packages/tensorflow/python/ops":
           [
             "nn_ops.py", "gen_nn_ops.py", "math_ops.py", "gen_math_ops.py", "array_ops.py", "gen_array_ops.py", "gen_image_ops.py",
             "image_ops_impl.py", "gen_random_ops.py", "nn_impl.py", "random_ops.py", "gen_linalg_ops.py",
             "while_v2.py", "tensor_array_ops.py", "gen_list_ops.py", "list_ops.py", "control_flow_ops.py",
             "control_flow_util_v2.py", "gen_functional_ops.py", "control_flow_util.py", "linalg_ops_impl.py", "clip_ops.py", "linalg_ops.py", "gradients_util.py"
           ],
-  "/data/ziniu/anaconda3/envs/tensorflow/lib/python3.7/site-packages/tensorflow/python/framework":
+  "/xxx/anaconda3/envs/tensorflow/lib/python3.7/site-packages/tensorflow/python/framework":
           [
             "ops.py"
           ],
-  "/data/ziniu/dl_libraries/exp0/tensorflow/tensorflow/tensorflow/core/grappler/optimizers":
+  "/xxx/dl_libraries/exp0/tensorflow/tensorflow/tensorflow/core/grappler/optimizers":
           [
             "constant_folding.cc",
             "arithmetic_optimizer.cc",
@@ -59,18 +59,18 @@
             "shape_optimizer.cc",
             "loop_optimizer.cc"
           ],
-  "/data/ziniu/dl_libraries/exp0/tensorflow/tensorflow/tensorflow/core/ops": [
+  "/xxx/dl_libraries/exp0/tensorflow/tensorflow/tensorflow/core/ops": [
     "array_ops.cc",
     "math_ops.cc",
     "image_ops.cc",
     "list_ops.cc"
   ],
-  "/data/ziniu/anaconda3/envs/tensorflow/lib/python3.7/site-packages/keras/engine": [
+  "/xxx/anaconda3/envs/tensorflow/lib/python3.7/site-packages/keras/engine": [
     "base_layer.py",
     "base_layer_utils.py",
     "input_spec.py"
   ],
-  "/data/ziniu/dl_libraries/exp0/tensorflow/tensorflow/tensorflow/core/framework": [
+  "/xxx/dl_libraries/exp0/tensorflow/tensorflow/tensorflow/core/framework": [
     "common_shape_fns.cc",
     "tensor_shape.h",
     "tensor_shape.cc",
@@ -79,19 +79,19 @@
     "op_kernel.h",
     "function.cc"
   ],
-  "/data/ziniu/dl_libraries/exp0/tensorflow/tensorflow/tensorflow/core/util": [
+  "/xxx/dl_libraries/exp0/tensorflow/tensorflow/tensorflow/core/util": [
     "equal_graph_def.cc",
     "overflow.h",
     "matmul_bcast.h"
   ],
-  "/data/ziniu/anaconda3/envs/tensorflow/lib/python3.7/site-packages/keras/initializers": [
+  "/xxx/anaconda3/envs/tensorflow/lib/python3.7/site-packages/keras/initializers": [
     "initializers_v2.py"
   ],
-  "/data/ziniu/anaconda3/envs/tensorflow/lib/python3.7/site-packages/keras/utils": [
+  "/xxx/anaconda3/envs/tensorflow/lib/python3.7/site-packages/keras/utils": [
     "generic_utils.py",
     "conv_utils.py"
   ],
-  "/data/ziniu/dl_libraries/exp0/tensorflow/tensorflow/tensorflow/core/kernels": [
+  "/xxx/dl_libraries/exp0/tensorflow/tensorflow/tensorflow/core/kernels": [
     "cudnn_rnn_ops.cc",
     "conv_ops_3d.cc",
     "conv_grad_input_ops.cc",
@@ -143,7 +143,7 @@
     "concat_op.cc",
     "depthwise_conv_op.h"
   ],
-  "/data/ziniu/dl_libraries/exp0/tensorflow/tensorflow/tensorflow/core/kernels/linalg": [
+  "/xxx/dl_libraries/exp0/tensorflow/tensorflow/tensorflow/core/kernels/linalg": [
     "matrix_set_diag_op.cc",
     "linalg_ops_common.cc",
     "qr_op_impl.h",

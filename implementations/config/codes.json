@@ -1,0 +1,22 @@
+{
+    "tensorflow_new": {
+        "python_include": [
+            "/xxx/anaconda3/envs/tensorflow/lib/python3.7/site-packages/keras/backend.py",
+            "/xxx/anaconda3/envs/tensorflow/lib/python3.7/site-packages/tensorflow/python/framework/*",
+            "/xxx/anaconda3/envs/tensorflow/lib/python3.7/site-packages/tensorflow/python/ops/*",
+            "/xxx/anaconda3/envs/tensorflow/lib/python3.7/site-packages/tensorflow/python/util/*"
+        ],
+        "py_exclude": [
+            "/xxx/anaconda3/envs/tensorflow/lib/python3.7/site-packages/tensorflow/python/ops/signal/*",
+            "/xxx/anaconda3/envs/tensorflow/lib/python3.7/site-packages/tensorflow/python/ops/ragged/*",
+            "/xxx/anaconda3/envs/tensorflow/lib/python3.7/site-packages/tensorflow/python/ops/parallel_for/*",
+            "/xxx/anaconda3/envs/tensorflow/lib/python3.7/site-packages/tensorflow/python/ops/distributions/*",
+            "/xxx/anaconda3/envs/tensorflow/lib/python3.7/site-packages/tensorflow/python/ops/image*"
+        ],
+        "c_include": [
+            "/xxx/dl_libraries/exp0/tensorflow/tensorflow/tensorflow"
+        ],
+        "c_exclude": [
+        ]
+    }
+}

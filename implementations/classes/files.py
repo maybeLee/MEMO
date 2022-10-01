@@ -226,18 +226,15 @@ class PyFiles(Files):
         self.parse_pyc()
 
     def update_miss_line(self, miss_line):
-        # TODO: Parse miss_line, find the missed lines and branches
         file_update_result = None
         max_line = max(self.lines.keys())
         miss_range, miss_branches = parse_miss_line(miss_line, max_line)
-        # finished TODO: Go through all existing test requirements and check whether new test requirements is invoked
         new_line_no = []
         for line in self.lines.values():
             if line.get_hit_status() == False and miss_range[line.get_lineno()] != 0:  # in new log, this line is hit
                 line.is_visited()
                 new_line_no.append(line.get_lineno())
 
-        # TODO(minor): the current python branch update method is not satisfying and intuitive, for each branch testrequirement, we will have two sub test requirement: if and else
         new_branch = []
         for branch in self.branches.values():
             branch_no = branch.get_lineno()

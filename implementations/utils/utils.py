@@ -52,7 +52,6 @@ def misline_2_range(missline, max_num):
 
 
 def parse_miss_line(miss_line, max_line):
-    # TODO: Parse miss_line, find the missed lines and branches
     # miss_range: np.array([0,1,1,...]) with shape: max_line+1, miss_branch: {start_no: [end_no], ...}, all keys and values are str
     miss_range, miss_branches = misline_2_range(miss_line, max_line)
     return miss_range, miss_branches

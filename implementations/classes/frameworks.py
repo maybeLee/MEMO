@@ -7,8 +7,6 @@ from utils.utils import get_files, concatenate_vector
 import importlib
 import subprocess
 import numpy as np
-# import pyflann
-from utils.utils import deprecated
 
 
 def get_value_from_line(line: str, key: str):
@@ -34,7 +32,6 @@ class Frameworks:
         self.c_exclude = ["a", "b"]
         self.py_exclude = ["a", "b"]
         self.coverage_history = {}  # {mutant_name: [], mutant_name: []}
-        # self.flann = pyflann.FLANN()
         self.distance = {}
         self.predicate_trs = {}  # will be {key1: <class trs>, key2: <class trs>}
 
@@ -101,7 +98,6 @@ class Frameworks:
             pass
 
     def update_distance(self, distance, silent=False):
-        # TODO: update the predicate distance, return the distance reward of given distance vector
         # distance_score will be, for any available distance, if the distance is smaller, it will be 1, else 0
         distance_score = 0
         for key in distance:
@@ -114,7 +110,6 @@ class Frameworks:
         return distance_score
 
     def update_predicate(self, predicate_trs, silent=False):
-        # TODO: update the predicate coverage, return the coverage reward of given predicate vector
         # predicate_score will be, if new predicate is hit, it will be 1, else 0
         predicate_score = 0
         for tr_key in predicate_trs.keys():
@@ -297,7 +292,6 @@ class Frameworks:
             given_info[file].sort_trs()
         return given_info
 
-    # TODO: Obtain the activation vector test requirements of all c_files and py_files, the challenge of this part is
     @staticmethod
     def get_tr_vector(given_info):
         # return the activation vector of the given info, given info represents a parse info
@@ -307,19 +301,6 @@ class Frameworks:
         for file in given_info.keys():
             vector = concatenate_vector(vector, given_info[file].get_tr_vector())
         return vector
-
-    @deprecated
-    def get_diff_delta(self, idntfr: str, vector: np.array):
-        self.flann.build_index(np.array(list(self.coverage_history.values())), algorithm=self.algorithm)
-        _, approx_distances = self.flann.nn_index(np.expand_dims(vector, axis=0), 1, algorithm=self.algorithm)
-        self.flann = pyflann.FLANN()
-        return approx_distances[0]/len(vector)
-
-    # def get_diff_delta(self, idntfr: str, vector: np.array):
-    #     idx = idntfr.rindex("-")
-    #     pre_idntfr = idntfr[:idx]
-    #     pre_vector = self.coverage_history[pre_idntfr]
-    #     return 1 - vector.dot(pre_vector) / (np.linalg.norm(vector)*np.linalg.norm(pre_vector))
 
     def update_vector(self, idntfr: str, vector: np.array):
         self.coverage_history[idntfr] = vector
