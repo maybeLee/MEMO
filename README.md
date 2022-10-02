@@ -8,7 +8,11 @@ MEMO is a coverage-guided deep learning (DL) library testing tool.
 
 ## Experiments
 
-We share our experiment results in `./evaluations` directory. We provide three codebooks for [RQ1](./MEMO/evaluations/RQ1.ipynb), [RQ3][./MEMO/evaluations/RQ3_ModelSynthesis.ipynb], and [RQ4][./MEMO/evaluations/RQ4-Ablation.ipynb] to analyze these results.
+We share our experiment results in `./evaluations` directory. We provide three codebooks for [RQ1](./evaluations/RQ1.ipynb), [RQ3](./evaluations/RQ3_ModelSynthesis.ipynb), and [RQ4](./evaluations/RQ4-Ablation.ipynb) to analyze these results.
+
+## Bugs
+
+To date, we have detected 31 bugs, including 21 confirmed bugs and 7 out of those confirmed bugs have been fixed. See [here](./evaluations/bugs.csv) for details.
 
 ## Reproduction
 
