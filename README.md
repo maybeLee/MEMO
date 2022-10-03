@@ -1,11 +1,3 @@
-# MEMO: Coverage-guided Model Generation For Deep Learning Library Testing
-
-## Overview
-
-MEMO is a coverage-guided deep learning (DL) library testing tool.
-
-![image](./pics/methodology.png)
-
 ## Experiments
 
 We share our experiment results in `./evaluations` directory. We provide three codebooks for [RQ1](./evaluations/RQ1.ipynb), [RQ3](./evaluations/RQ3_ModelSynthesis.ipynb), and [RQ4](./evaluations/RQ4-Ablation.ipynb) to analyze these results.
